@@ -1,0 +1,948 @@
+{
+
+        "linux": [
+            {
+                "link": "https://superuser.com/questions/147027/how-can-i-sort-the-output-of-ls-by-last-modified-date",
+                "title": "How can I sort the output of &#39;ls&#39; by last modified date?",
+                "tags": [
+                    "linux",
+                    "unix",
+                    "shell",
+                    "ls"
+                ]
+            },
+            {
+                "link": "https://superuser.com/questions/545329/how-do-i-make-a-machine-blank-screen-for-a-period-of-time-as-a-penalty-if-ce",
+                "title": "How do I make a machine &quot;blank screen&quot; for a period of time (as a penalty) if certain noise levels are reached?",
+                "tags": [
+                    "linux",
+                    "audio",
+                    "shell",
+                    "parental-controls"
+                ]
+            },
+            {
+                "link": "https://superuser.com/questions/216617/view-list-of-files-in-zip-archive-on-linux",
+                "title": "View list of files in ZIP archive on Linux",
+                "tags": [
+                    "linux",
+                    "zip"
+                ]
+            },
+            {
+                "link": "https://superuser.com/questions/181517/how-to-execute-a-command-whenever-a-file-changes",
+                "title": "How to execute a command whenever a file changes?",
+                "tags": [
+                    "linux",
+                    "unix",
+                    "shell",
+                    "script"
+                ]
+            },
+            {
+                "link": "https://superuser.com/questions/215504/permissions-on-private-key-in-ssh-folder",
+                "title": "Permissions on private key in .ssh folder?",
+                "tags": [
+                    "linux",
+                    "macos",
+                    "permissions",
+                    "file-permissions"
+                ]
+            },
+            {
+                "link": "https://superuser.com/questions/327762/how-to-find-a-directory-on-linux",
+                "title": "How to find a directory on linux?",
+                "tags": [
+                    "linux",
+                    "command-line"
+                ]
+            },
+            {
+                "link": "https://superuser.com/questions/306163/what-is-the-you-have-new-mail-message-in-linux-unix",
+                "title": "What is the &quot;You have new mail&quot; message in Linux/UNIX?",
+                "tags": [
+                    "linux",
+                    "unix",
+                    "email",
+                    "root"
+                ]
+            },
+            {
+                "link": "https://superuser.com/questions/272818/how-to-turn-off-word-wrap-in-less",
+                "title": "How to turn off word-wrap in less",
+                "tags": [
+                    "linux",
+                    "command-line",
+                    "less"
+                ]
+            },
+            {
+                "link": "https://superuser.com/questions/117841/when-reading-a-file-with-less-or-more-how-can-i-get-the-content-in-colors",
+                "title": "When reading a file with `less` or `more`, how can I get the content in colors?",
+                "tags": [
+                    "linux",
+                    "colors",
+                    "less"
+                ]
+            },
+            {
+                "link": "https://superuser.com/questions/164553/automatically-answer-yes-when-using-apt-get-install",
+                "title": "Automatically answer &#39;Yes&#39; when using apt-get install",
+                "tags": [
+                    "linux"
+                ]
+            }
+        ],
+        "linux-mint": [
+            {
+                "link": "https://superuser.com/questions/401217/how-to-check-root-partition-with-fsck",
+                "title": "How to check root partition with fsck?",
+                "tags": [
+                    "boot",
+                    "linux-mint",
+                    "root",
+                    "fsck"
+                ]
+            },
+            {
+                "link": "https://superuser.com/questions/684432/hotkey-to-move-window-to-other-monitor",
+                "title": "Hotkey to Move Window to Other Monitor",
+                "tags": [
+                    "gnome",
+                    "linux-mint",
+                    "cinnamon"
+                ]
+            },
+            {
+                "link": "https://superuser.com/questions/436890/cant-copy-to-clipboard-from-vim",
+                "title": "Can&#39;t Copy to Clipboard from Vim",
+                "tags": [
+                    "debian",
+                    "vim",
+                    "vimrc",
+                    "linux-mint"
+                ]
+            },
+            {
+                "link": "https://superuser.com/questions/699905/change-behavior-of-linux-power-button",
+                "title": "Change Behavior of Linux Power Button",
+                "tags": [
+                    "linux",
+                    "linux-mint",
+                    "power-management",
+                    "cat"
+                ]
+            },
+            {
+                "link": "https://superuser.com/questions/387948/how-can-i-determine-if-apache-is-installed-on-a-system",
+                "title": "How can I determine if Apache is installed on a system?",
+                "tags": [
+                    "linux",
+                    "apache-http-server",
+                    "linux-mint"
+                ]
+            },
+            {
+                "link": "https://superuser.com/questions/665069/can-i-get-around-using-pip-install-cert",
+                "title": "Can I get around using &quot;pip install --cert&quot;?",
+                "tags": [
+                    "linux",
+                    "ubuntu",
+                    "linux-mint",
+                    "ssl",
+                    "certificate"
+                ]
+            },
+            {
+                "link": "https://superuser.com/questions/758463/getting-1920x1080-resolution-or-169-aspect-ratio-on-ubuntu-or-linux-mint",
+                "title": "Getting 1920x1080 resolution or 16:9 aspect ratio on Ubuntu or Linux Mint",
+                "tags": [
+                    "ubuntu",
+                    "linux-mint",
+                    "resolution",
+                    "vmware",
+                    "aspect-ratio"
+                ]
+            },
+            {
+                "link": "https://superuser.com/questions/267637/how-can-i-change-the-time-before-the-system-locks",
+                "title": "How can I change the time before the system locks?",
+                "tags": [
+                    "linux",
+                    "linux-mint",
+                    "timeout"
+                ]
+            },
+            {
+                "link": "https://superuser.com/questions/528727/how-do-i-solve-periodic-mouse-lag-on-linux-mint-mate",
+                "title": "How do I solve periodic mouse lag on Linux Mint (MATE)?",
+                "tags": [
+                    "linux",
+                    "linux-mint"
+                ]
+            },
+            {
+                "link": "https://superuser.com/questions/433724/how-do-i-disable-the-keyboard-shortcut-for-menu-in-linux-mint-13",
+                "title": "How do I disable the keyboard shortcut for menu in Linux Mint 13?",
+                "tags": [
+                    "linux-mint",
+                    "cinnamon"
+                ]
+            }
+        ],
+        "arch-linux": [
+            {
+                "link": "https://superuser.com/questions/1265425/how-do-i-list-files-installed-by-a-package-from-the-aur",
+                "title": "How do I list files installed by a package from the AUR?",
+                "tags": [
+                    "linux",
+                    "arch-linux",
+                    "pacman"
+                ]
+            },
+            {
+                "link": "https://superuser.com/questions/566871/how-to-map-the-caps-lock-key-to-escape-key-in-arch-linux",
+                "title": "How to map the Caps Lock key to Escape key in Arch Linux",
+                "tags": [
+                    "keyboard",
+                    "arch-linux",
+                    "keymap",
+                    "xmodmap"
+                ]
+            },
+            {
+                "link": "https://superuser.com/questions/944119/replace-gtk-file-dialog-with-alternative",
+                "title": "Replace GTK+ file dialog with alternative",
+                "tags": [
+                    "linux",
+                    "file-management",
+                    "arch-linux",
+                    "gtk"
+                ]
+            },
+            {
+                "link": "https://superuser.com/questions/1306621/install-appimage-under-arch-linux",
+                "title": "Install Appimage under Arch Linux",
+                "tags": [
+                    "arch-linux",
+                    "appimage"
+                ]
+            },
+            {
+                "link": "https://superuser.com/questions/769047/unable-to-find-root-device-on-a-fresh-archlinux-install",
+                "title": "&quot;Unable to find root device&quot; on a fresh ArchLinux install",
+                "tags": [
+                    "linux",
+                    "boot",
+                    "grub",
+                    "arch-linux",
+                    "macbook-pro"
+                ]
+            },
+            {
+                "link": "https://superuser.com/questions/1220867/dd-function-seems-to-freeze-when-done",
+                "title": "dd function seems to freeze when done",
+                "tags": [
+                    "linux",
+                    "arch-linux",
+                    "dd"
+                ]
+            },
+            {
+                "link": "https://superuser.com/questions/1033414/how-to-disable-gtkfilechooserdialog-search",
+                "title": "How to disable GtkFileChooserDialog search?",
+                "tags": [
+                    "linux",
+                    "firefox",
+                    "arch-linux",
+                    "gtk"
+                ]
+            },
+            {
+                "link": "https://superuser.com/questions/317603/how-to-disable-top-left-hotspot-corner-in-kde",
+                "title": "How to disable top left hotspot corner in KDE?",
+                "tags": [
+                    "kde",
+                    "arch-linux"
+                ]
+            },
+            {
+                "link": "https://superuser.com/questions/1310775/bluetooth-adapter-not-detected-on-linux",
+                "title": "Bluetooth adapter not detected on Linux",
+                "tags": [
+                    "bluetooth",
+                    "arch-linux",
+                    "adapter"
+                ]
+            },
+            {
+                "link": "https://superuser.com/questions/961401/mounting-hfs-partition-on-arch-linux",
+                "title": "Mounting HFS+ partition on Arch Linux",
+                "tags": [
+                    "linux",
+                    "mount",
+                    "arch-linux",
+                    "hfs+"
+                ]
+            }
+        ],
+        "windows-subsystem-for-linux": [
+            {
+                "link": "https://superuser.com/questions/1185033/what-is-the-home-directory-on-windows-subsystem-for-linux",
+                "title": "What is the home directory on Windows Subsystem for Linux?",
+                "tags": [
+                    "windows-10",
+                    "bash",
+                    "windows-subsystem-for-linux"
+                ]
+            },
+            {
+                "link": "https://superuser.com/questions/1126721/rebooting-ubuntu-on-windows-without-rebooting-windows",
+                "title": "Rebooting Ubuntu on Windows without rebooting Windows?",
+                "tags": [
+                    "windows-10",
+                    "windows-subsystem-for-linux"
+                ]
+            },
+            {
+                "link": "https://superuser.com/questions/1066261/how-to-access-windows-folders-from-bash-on-ubuntu-on-windows",
+                "title": "How to access Windows folders from Bash on Ubuntu on Windows",
+                "tags": [
+                    "windows-10",
+                    "bash",
+                    "shell",
+                    "windows-subsystem-for-linux"
+                ]
+            },
+            {
+                "link": "https://superuser.com/questions/1110974/how-to-access-linux-ubuntu-files-from-windows-10-wsl",
+                "title": "How to access linux/Ubuntu files from Windows 10 WSL?",
+                "tags": [
+                    "windows-10",
+                    "windows-10-v1607",
+                    "windows-subsystem-for-linux"
+                ]
+            },
+            {
+                "link": "https://superuser.com/questions/1083962/windows-linux-subsystem-accessing-files-outside-of-ubuntu",
+                "title": "Windows Linux Subsystem - Accessing Files outside of Ubuntu",
+                "tags": [
+                    "windows-10",
+                    "bash",
+                    "windows-subsystem-for-linux"
+                ]
+            },
+            {
+                "link": "https://superuser.com/questions/1128634/how-to-access-mounted-network-drive-on-windows-linux-subsystem",
+                "title": "How to access mounted network drive on Windows Linux Subsystem?",
+                "tags": [
+                    "samba",
+                    "windows-subsystem-for-linux"
+                ]
+            },
+            {
+                "link": "https://superuser.com/questions/1111591/how-can-i-ssh-into-bash-on-ubuntu-on-windows-10",
+                "title": "How can I SSH into &quot;Bash on Ubuntu on Windows 10&quot;?",
+                "tags": [
+                    "windows-10",
+                    "bash",
+                    "ssh",
+                    "windows-10-v1607",
+                    "windows-subsystem-for-linux"
+                ]
+            },
+            {
+                "link": "https://superuser.com/questions/1065569/how-to-remove-reset-windows-subsystem-for-linux-on-windows-insider-build-14316",
+                "title": "How to remove/reset Windows Subsystem for Linux on Windows Insider Build 14316",
+                "tags": [
+                    "ubuntu",
+                    "bash",
+                    "windows-10-preview",
+                    "windows-subsystem-for-linux"
+                ]
+            },
+            {
+                "link": "https://superuser.com/questions/1107618/where-is-the-c-drive-in-the-wsl",
+                "title": "Where is the C drive in the WSL?",
+                "tags": [
+                    "command-line",
+                    "bash",
+                    "shell",
+                    "windows-subsystem-for-linux",
+                    "windows-10-v1607"
+                ]
+            },
+            {
+                "link": "https://superuser.com/questions/1338991/how-to-open-windows-explorer-from-current-working-directory-of-wsl-shell",
+                "title": "How to open windows explorer from current working directory of WSL shell?",
+                "tags": [
+                    "windows-subsystem-for-linux"
+                ]
+            }
+        ],
+        "kali-linux": [
+            {
+                "link": "https://superuser.com/questions/1331936/how-can-i-get-past-a-repository-is-not-signed-message-when-attempting-to-upgr",
+                "title": "How can I get past a \u201cRepository is not signed\u2026\u201d message when attempting to upgrade Kali Linux from a mounted disk image?",
+                "tags": [
+                    "kali-linux",
+                    "apt"
+                ]
+            },
+            {
+                "link": "https://superuser.com/questions/1059346/apt-get-update-not-working-signing-verification-errors",
+                "title": "apt-get update not working: Signing/ Verification errors",
+                "tags": [
+                    "linux",
+                    "root",
+                    "kali-linux",
+                    "apt-get"
+                ]
+            },
+            {
+                "link": "https://superuser.com/questions/1185747/how-do-i-disable-the-screensaver-lock-in-kali-linux",
+                "title": "How do I disable the screensaver/lock in kali linux?",
+                "tags": [
+                    "kali-linux"
+                ]
+            },
+            {
+                "link": "https://superuser.com/questions/791352/virtual-box-error-after-creating-new-vm",
+                "title": "Virtual Box error after creating new VM",
+                "tags": [
+                    "virtualbox",
+                    "virtual-machine",
+                    "windows-8.1",
+                    "kali-linux"
+                ]
+            },
+            {
+                "link": "https://superuser.com/questions/987969/cant-login-in-kali-linux",
+                "title": "Can&#39;t login in Kali Linux",
+                "tags": [
+                    "kali-linux"
+                ]
+            },
+            {
+                "link": "https://superuser.com/questions/870068/how-to-set-system-time-on-kali-linux",
+                "title": "How to set system time on Kali linux?",
+                "tags": [
+                    "linux",
+                    "date-time",
+                    "kali-linux"
+                ]
+            },
+            {
+                "link": "https://superuser.com/questions/1093509/kali-linux-2-0-failed-to-connect-to-lvmetad-falling-back-to-device-scanning",
+                "title": "Kali linux 2.0 failed to connect to lvmetad.Falling back to device scanning",
+                "tags": [
+                    "grub",
+                    "kali-linux"
+                ]
+            },
+            {
+                "link": "https://superuser.com/questions/1141914/bootrec-fixboot-element-not-found",
+                "title": "BOOTREC /FIXBOOT =&gt; Element not found",
+                "tags": [
+                    "linux",
+                    "windows",
+                    "windows-10",
+                    "boot",
+                    "kali-linux"
+                ]
+            },
+            {
+                "link": "https://superuser.com/questions/1466648/kali-linux-failed-after-upgrade",
+                "title": "Kali linux failed after upgrade",
+                "tags": [
+                    "linux",
+                    "debian",
+                    "kali-linux",
+                    "wget",
+                    "recovery"
+                ]
+            },
+            {
+                "link": "https://superuser.com/questions/752336/change-number-of-cpus-in-virtualbox-is-disabled",
+                "title": "Change number of CPUs in VirtualBox is disabled",
+                "tags": [
+                    "virtualbox",
+                    "kali-linux"
+                ]
+            }
+        ],
+        "windows": [
+            {
+                "link": "https://superuser.com/questions/117902/find-out-which-process-is-locking-a-file-or-folder-in-windows",
+                "title": "Find out which process is locking a file or folder in Windows",
+                "tags": [
+                    "windows",
+                    "filesystems",
+                    "process",
+                    "community-faq-proposed"
+                ]
+            },
+            {
+                "link": "https://superuser.com/questions/231273/what-are-the-windows-a-and-b-drives-used-for",
+                "title": "What are the Windows A: and B: drives used for?",
+                "tags": [
+                    "windows",
+                    "hard-drive"
+                ]
+            },
+            {
+                "link": "https://superuser.com/questions/341192/how-can-i-display-the-contents-of-an-environment-variable-from-the-command-promp",
+                "title": "How can I display the contents of an environment variable from the command prompt in Windows 7?",
+                "tags": [
+                    "windows-7",
+                    "windows",
+                    "command-line",
+                    "environment-variables"
+                ]
+            },
+            {
+                "link": "https://superuser.com/questions/951960/windows-7-sp1-windows-update-stuck-checking-for-updates",
+                "title": "Windows 7 SP1 Windows Update stuck checking for updates",
+                "tags": [
+                    "windows-7",
+                    "windows",
+                    "windows-update"
+                ]
+            },
+            {
+                "link": "https://superuser.com/questions/343074/directory-junction-vs-directory-symbolic-link",
+                "title": "&quot;directory junction&quot; vs &quot;directory symbolic link&quot;?",
+                "tags": [
+                    "windows",
+                    "filesystems",
+                    "ntfs",
+                    "symbolic-link"
+                ]
+            },
+            {
+                "link": "https://superuser.com/questions/64471/create-rename-a-file-folder-that-begins-with-a-dot-in-windows",
+                "title": "Create/rename a file/folder that begins with a dot in Windows?",
+                "tags": [
+                    "windows"
+                ]
+            },
+            {
+                "link": "https://superuser.com/questions/42537/is-there-any-sudo-command-for-windows",
+                "title": "Is there any &#39;sudo&#39; command for Windows?",
+                "tags": [
+                    "windows",
+                    "command-line",
+                    "privileges"
+                ]
+            },
+            {
+                "link": "https://superuser.com/questions/455853/can-i-delete-the-folder-c-programdata-package-cache",
+                "title": "Can I delete the folder C:\\ProgramData\\Package Cache\\?",
+                "tags": [
+                    "windows",
+                    "disk-space"
+                ]
+            },
+            {
+                "link": "https://superuser.com/questions/612409/how-do-i-run-multiple-commands-on-one-line-in-powershell",
+                "title": "How do I run multiple commands on one line in PowerShell?",
+                "tags": [
+                    "windows",
+                    "command-line",
+                    "powershell"
+                ]
+            },
+            {
+                "link": "https://superuser.com/questions/100360/how-can-i-remove-malicious-spyware-malware-adware-viruses-trojans-or-rootkit",
+                "title": "How can I remove malicious spyware, malware, adware, viruses, trojans or rootkits from my PC?",
+                "tags": [
+                    "windows",
+                    "anti-virus",
+                    "virus",
+                    "malware",
+                    "community-faq"
+                ]
+            }
+        ],
+        "windows-7": [
+            {
+                "link": "https://superuser.com/questions/792607/why-does-windows-think-that-my-wireless-keyboard-is-a-toaster",
+                "title": "Why does Windows think that my wireless keyboard is a toaster?",
+                "tags": [
+                    "windows-7",
+                    "device-manager"
+                ]
+            },
+            {
+                "link": "https://superuser.com/questions/245775/is-there-a-built-in-checksum-utility-on-windows-7",
+                "title": "Is there a built-in checksum utility on Windows 7?",
+                "tags": [
+                    "windows-7",
+                    "hashing",
+                    "checksum"
+                ]
+            },
+            {
+                "link": "https://superuser.com/questions/341192/how-can-i-display-the-contents-of-an-environment-variable-from-the-command-promp",
+                "title": "How can I display the contents of an environment variable from the command prompt in Windows 7?",
+                "tags": [
+                    "windows-7",
+                    "windows",
+                    "command-line",
+                    "environment-variables"
+                ]
+            },
+            {
+                "link": "https://superuser.com/questions/951960/windows-7-sp1-windows-update-stuck-checking-for-updates",
+                "title": "Windows 7 SP1 Windows Update stuck checking for updates",
+                "tags": [
+                    "windows-7",
+                    "windows",
+                    "windows-update"
+                ]
+            },
+            {
+                "link": "https://superuser.com/questions/167076/how-can-i-delete-a-symbolic-link",
+                "title": "How can I delete a symbolic link?",
+                "tags": [
+                    "windows-7",
+                    "symbolic-link"
+                ]
+            },
+            {
+                "link": "https://superuser.com/questions/866962/why-does-virtualbox-only-have-32-bit-option-no-64-bit-option-on-windows-7",
+                "title": "Why does virtualbox only have 32-bit option, no 64-bit option on Windows 7?",
+                "tags": [
+                    "windows",
+                    "windows-7",
+                    "virtualbox"
+                ]
+            },
+            {
+                "link": "https://superuser.com/questions/57016/menu-select-item-stuck-on-screen-after-context-or-command-menu-has-closed",
+                "title": "Menu select item stuck on screen after context or command menu has closed",
+                "tags": [
+                    "windows-7",
+                    "windows",
+                    "user-interface"
+                ]
+            },
+            {
+                "link": "https://superuser.com/questions/100249/how-to-pin-either-a-shortcut-or-a-batch-file-to-the-new-windows-7-8-and-10-task",
+                "title": "How to pin either a Shortcut or a Batch file to the new Windows 7, 8 and 10 Taskbar and start menu?",
+                "tags": [
+                    "windows-7",
+                    "windows-8",
+                    "windows-10",
+                    "taskbar",
+                    "shortcuts"
+                ]
+            },
+            {
+                "link": "https://superuser.com/questions/310681/inverting-direction-of-mouse-scroll-wheel",
+                "title": "Inverting direction of mouse scroll wheel",
+                "tags": [
+                    "windows-7",
+                    "mouse",
+                    "scroll-wheel"
+                ]
+            },
+            {
+                "link": "https://superuser.com/questions/275894/how-to-mess-up-a-pc-running-windows-7",
+                "title": "How to mess up a PC running Windows 7?",
+                "tags": [
+                    "windows-7",
+                    "windows",
+                    "security"
+                ]
+            }
+        ],
+        "windows-10": [
+            {
+                "link": "https://superuser.com/questions/957267/how-to-disable-automatic-reboots-in-windows-10",
+                "title": "How to *disable* automatic reboots in Windows 10?",
+                "tags": [
+                    "windows-10",
+                    "windows-update",
+                    "reboot"
+                ]
+            },
+            {
+                "link": "https://superuser.com/questions/707767/how-can-i-free-up-drive-space-from-the-windows-installer-folder-without-killing",
+                "title": "How can I free up drive space from the Windows installer folder without killing Windows?",
+                "tags": [
+                    "windows",
+                    "windows-10",
+                    "windows-8.1",
+                    "disk-space",
+                    "windows-installer"
+                ]
+            },
+            {
+                "link": "https://superuser.com/questions/890812/how-to-rename-the-user-folder-in-windows-10",
+                "title": "How to rename the User folder in Windows 10?",
+                "tags": [
+                    "windows",
+                    "windows-10",
+                    "onedrive"
+                ]
+            },
+            {
+                "link": "https://superuser.com/questions/1185033/what-is-the-home-directory-on-windows-subsystem-for-linux",
+                "title": "What is the home directory on Windows Subsystem for Linux?",
+                "tags": [
+                    "windows-10",
+                    "bash",
+                    "windows-subsystem-for-linux"
+                ]
+            },
+            {
+                "link": "https://superuser.com/questions/976947/keyboard-language-keeps-changing-in-windows-10",
+                "title": "Keyboard language keeps changing in Windows 10",
+                "tags": [
+                    "windows",
+                    "windows-10",
+                    "keyboard-layout"
+                ]
+            },
+            {
+                "link": "https://superuser.com/questions/1126721/rebooting-ubuntu-on-windows-without-rebooting-windows",
+                "title": "Rebooting Ubuntu on Windows without rebooting Windows?",
+                "tags": [
+                    "windows-10",
+                    "windows-subsystem-for-linux"
+                ]
+            },
+            {
+                "link": "https://superuser.com/questions/949569/can-i-completely-disable-cortana-on-windows-10",
+                "title": "Can I completely disable Cortana on Windows 10?",
+                "tags": [
+                    "windows-10",
+                    "cortana"
+                ]
+            },
+            {
+                "link": "https://superuser.com/questions/100249/how-to-pin-either-a-shortcut-or-a-batch-file-to-the-new-windows-7-8-and-10-task",
+                "title": "How to pin either a Shortcut or a Batch file to the new Windows 7, 8 and 10 Taskbar and start menu?",
+                "tags": [
+                    "windows-7",
+                    "windows-8",
+                    "windows-10",
+                    "taskbar",
+                    "shortcuts"
+                ]
+            },
+            {
+                "link": "https://superuser.com/questions/973009/conclusively-stop-wake-timers-from-waking-windows-10-desktop",
+                "title": "Conclusively stop wake timers from waking Windows 10 desktop",
+                "tags": [
+                    "windows-10",
+                    "sleep",
+                    "wake-on-lan"
+                ]
+            },
+            {
+                "link": "https://superuser.com/questions/1467313/mouse-pointer-moving-on-arrow-keys-pressed-in-windows",
+                "title": "Mouse pointer moving on arrow keys pressed in Windows?",
+                "tags": [
+                    "windows-10",
+                    "mouse"
+                ]
+            }
+        ],
+        "windows-8": [
+            {
+                "link": "https://superuser.com/questions/492856/how-can-i-send-a-ctrlaltdelete-through-remote-desktop-in-windows-8",
+                "title": "How can I send a Ctrl+Alt+Delete through Remote Desktop in Windows 8?",
+                "tags": [
+                    "remote-desktop",
+                    "windows-8",
+                    "ctrl-alt-delete"
+                ]
+            },
+            {
+                "link": "https://superuser.com/questions/100249/how-to-pin-either-a-shortcut-or-a-batch-file-to-the-new-windows-7-8-and-10-task",
+                "title": "How to pin either a Shortcut or a Batch file to the new Windows 7, 8 and 10 Taskbar and start menu?",
+                "tags": [
+                    "windows-7",
+                    "windows-8",
+                    "windows-10",
+                    "taskbar",
+                    "shortcuts"
+                ]
+            },
+            {
+                "link": "https://superuser.com/questions/502374/equivalent-of-linux-touch-to-create-an-empty-file-with-powershell",
+                "title": "Equivalent of Linux `touch` to create an empty file with PowerShell",
+                "tags": [
+                    "windows",
+                    "windows-8",
+                    "powershell",
+                    "powershell-3.0"
+                ]
+            },
+            {
+                "link": "https://superuser.com/questions/469806/windows-8-hyper-v-how-to-give-vm-internet-access",
+                "title": "Windows 8 Hyper-V - how to give VM internet access?",
+                "tags": [
+                    "network-adapter",
+                    "windows-8",
+                    "hyper-v"
+                ]
+            },
+            {
+                "link": "https://superuser.com/questions/755298/how-to-delete-a-file-with-a-path-too-long-to-be-deleted",
+                "title": "How to delete a file with a path too long to be deleted",
+                "tags": [
+                    "windows-8",
+                    "filenames"
+                ]
+            },
+            {
+                "link": "https://superuser.com/questions/972501/how-to-stop-microsoft-from-gathering-telemetry-data-from-windows-7-8-and-8-1",
+                "title": "How to stop Microsoft from gathering telemetry data from Windows 7, 8, and 8.1",
+                "tags": [
+                    "windows-7",
+                    "windows",
+                    "windows-8",
+                    "windows-8.1"
+                ]
+            },
+            {
+                "link": "https://superuser.com/questions/527401/troubleshoot-high-cpu-usage-by-the-system-process",
+                "title": "Troubleshoot High CPU usage by the &quot;System&quot; process",
+                "tags": [
+                    "windows",
+                    "windows-8",
+                    "performance",
+                    "troubleshooting",
+                    "cpu-usage"
+                ]
+            },
+            {
+                "link": "https://superuser.com/questions/495290/how-to-rename-user-folder-in-windows-8",
+                "title": "How to rename user folder in Windows 8?",
+                "tags": [
+                    "windows-8",
+                    "microsoft-account"
+                ]
+            },
+            {
+                "link": "https://superuser.com/questions/488322/permanently-remove-disable-touch-keyboard-in-windows-8-taskbar",
+                "title": "Permanently remove/disable Touch Keyboard in Windows 8 taskbar?",
+                "tags": [
+                    "windows-8",
+                    "on-screen-keyboard"
+                ]
+            },
+            {
+                "link": "https://superuser.com/questions/637971/how-do-i-get-out-my-embedded-windows-8-key-from-a-linux-environment",
+                "title": "How do I get out my embedded Windows 8+ key from a Linux environment?",
+                "tags": [
+                    "linux",
+                    "windows-8",
+                    "virtual-machine"
+                ]
+            }
+        ],
+        "operating-systems": [
+            {
+                "link": "https://superuser.com/questions/56540/32-bit-vs-64-bit-systems",
+                "title": "32-bit vs. 64-bit systems",
+                "tags": [
+                    "64-bit",
+                    "operating-systems",
+                    "32-bit",
+                    "computer-architecture",
+                    "cpu-architecture"
+                ]
+            },
+            {
+                "link": "https://superuser.com/questions/1256074/how-much-space-to-leave-free-on-hdd-or-ssd",
+                "title": "How much space to leave free on HDD or SSD?",
+                "tags": [
+                    "hard-drive",
+                    "ssd",
+                    "performance",
+                    "filesystems",
+                    "operating-systems"
+                ]
+            },
+            {
+                "link": "https://superuser.com/questions/495025/use-physical-harddisk-in-virtual-box",
+                "title": "Use physical harddisk in Virtual Box",
+                "tags": [
+                    "hard-drive",
+                    "virtualbox",
+                    "virtual-machine",
+                    "virtualization",
+                    "operating-systems"
+                ]
+            },
+            {
+                "link": "https://superuser.com/questions/479699/how-does-the-computer-know-that-the-pc-was-not-properly-shut-down",
+                "title": "How does the computer know that the PC was not properly shut down?",
+                "tags": [
+                    "operating-systems",
+                    "shutdown"
+                ]
+            },
+            {
+                "link": "https://superuser.com/questions/29111/what-technical-reasons-exist-for-not-using-space-characters-in-file-names",
+                "title": "What technical reasons exist for not using space characters in file names?",
+                "tags": [
+                    "operating-systems",
+                    "file-management",
+                    "filenames"
+                ]
+            },
+            {
+                "link": "https://superuser.com/questions/39942/using-udf-on-a-usb-flash-drive",
+                "title": "Using UDF on a USB flash drive",
+                "tags": [
+                    "usb",
+                    "filesystems",
+                    "operating-systems",
+                    "usb-flash-drive",
+                    "udf"
+                ]
+            },
+            {
+                "link": "https://superuser.com/questions/805340/does-every-os-need-ram",
+                "title": "Does every OS need RAM?",
+                "tags": [
+                    "boot",
+                    "memory",
+                    "operating-systems",
+                    "ramdisk"
+                ]
+            },
+            {
+                "link": "https://superuser.com/questions/319056/does-windows-still-rely-on-ms-dos",
+                "title": "Does Windows still rely on MS-DOS?",
+                "tags": [
+                    "windows-7",
+                    "operating-systems",
+                    "ms-dos"
+                ]
+            },
+            {
+                "link": "https://superuser.com/questions/1165420/how-is-virtual-memory-actually-increasing-the-memory-space",
+                "title": "How is virtual memory actually increasing the memory space?",
+                "tags": [
+                    "memory",
+                    "operating-systems",
+                    "virtual-memory"
+                ]
+            },
+            {
+                "link": "https://superuser.com/questions/364152/why-is-everything-is-a-file-unique-to-the-unix-operating-systems",
+                "title": "Why is &quot;Everything is a file&quot; unique to the Unix operating systems?",
+                "tags": [
+                    "unix",
+                    "operating-systems"
+                ]
+            }
+        ]
+    
+}

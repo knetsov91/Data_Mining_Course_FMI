@@ -1,0 +1,821 @@
+{
+    "security": [
+        {
+            "link": "https://superuser.com/questions/733081/is-it-really-possible-for-most-enthusiasts-to-crack-peoples-wi-fi-networks",
+            "title": "Is it really possible for most enthusiasts to crack people&#39;s Wi-Fi networks?",
+            "tags": [
+                "wireless-networking",
+                "router",
+                "security"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/857439/how-does-linux-know-that-the-new-password-is-similar-to-the-previous-one",
+            "title": "How does Linux know that the new password is similar to the previous one?",
+            "tags": [
+                "linux",
+                "unix",
+                "security"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/1313243/why-does-my-browser-think-that-https-1-1-1-1-is-secure",
+            "title": "Why does my browser think that https://1.1.1.1 is secure?",
+            "tags": [
+                "security",
+                "browser",
+                "https",
+                "web",
+                "ssl-certificate"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/709275/what-is-the-danger-of-inserting-and-browsing-an-untrusted-usb-drive",
+            "title": "What is the danger of inserting and browsing an untrusted USB drive?",
+            "tags": [
+                "windows-7",
+                "linux",
+                "security",
+                "usb-flash-drive",
+                "autorun"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/273353/how-to-identify-whether-my-linux-computer-was-hacked",
+            "title": "How to identify whether my Linux computer was hacked?",
+            "tags": [
+                "linux",
+                "security"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/421074/ssh-the-authenticity-of-host-host-cant-be-established",
+            "title": "SSH: The authenticity of host &lt;host&gt; can&#39;t be established",
+            "tags": [
+                "ssh",
+                "security",
+                "encryption"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/75841/what-is-1e100-net-and-why-do-i-have-tcp-ports-open-to-it",
+            "title": "What is 1e100.net and why do I have TCP ports open to it?",
+            "tags": [
+                "google-chrome",
+                "security",
+                "domain"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/739427/how-to-use-the-internet-while-heartbleed-is-being-fixed",
+            "title": "How to use the Internet while Heartbleed is being fixed?",
+            "tags": [
+                "security",
+                "internet-security",
+                "heartbleed"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/138893/scp-to-remote-server-with-sudo",
+            "title": "scp to remote server with sudo",
+            "tags": [
+                "command-line",
+                "security",
+                "sudo",
+                "scp"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/4678/securely-erasing-all-data-from-a-hard-drive",
+            "title": "Securely erasing all data from a hard drive",
+            "tags": [
+                "windows",
+                "mac",
+                "security",
+                "secure-erase"
+            ]
+        }
+    ],
+    "internet-security": [
+        {
+            "link": "https://superuser.com/questions/379819/how-to-disable-internet-connection-only-for-some-standard-user-accounts-in-windo",
+            "title": "How to disable internet connection only for some standard user accounts in Windows 7 Ultimate?",
+            "tags": [
+                "windows-7",
+                "user-accounts",
+                "internet-connection",
+                "internet-security"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/452220/is-my-network-infrastructure-visible-outside-of-my-wireless-router",
+            "title": "Is my network infrastructure visible outside of my wireless router?",
+            "tags": [
+                "wireless-router",
+                "internet-security"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/1068963/port-2105-open-on-network",
+            "title": "Port 2105 Open on Network",
+            "tags": [
+                "networking",
+                "ports",
+                "internet-security"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/313596/weird-hits-on-port-2703",
+            "title": "Weird hits on port 2703",
+            "tags": [
+                "security",
+                "firewall",
+                "port",
+                "internet-security"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/317577/why-inputting-nul-in-windows-cmd-gives-a-certain-error-message",
+            "title": "Why inputting &#39;nul&#39; in windows cmd gives a certain error-message",
+            "tags": [
+                "windows",
+                "filesystems",
+                "internet-security"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/759536/connection-to-google-yahoo-bing-ask-etc-compromised-via-all-devices-on-my-h",
+            "title": "Connection to Google, Yahoo, Bing, Ask, etc. compromised via all devices on my home network - How?",
+            "tags": [
+                "networking",
+                "security",
+                "internet",
+                "internet-explorer",
+                "internet-security"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/1302857/internet-options-to-add-trusted-site-greyed-out-syspreped-windows-10-ltsb",
+            "title": "Internet Options to add Trusted Site Greyed Out - SysPreped Windows 10 LTSB",
+            "tags": [
+                "security",
+                "internet-explorer",
+                "internet-security"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/123799/why-not-open-a-pdf-file-in-the-browser-but-first-save-it-to-the-harddisk",
+            "title": "Why not open a PDF file in the browser but first save it to the harddisk?",
+            "tags": [
+                "security",
+                "browser",
+                "pdf",
+                "plugins",
+                "internet-security"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/309492/how-to-prevent-some-users-in-windows-7-from-accessing-sites-other-than-a-set-of",
+            "title": "How to prevent some users in Windows 7 from accessing sites other than a set of certain sites?",
+            "tags": [
+                "blocking",
+                "internet-security"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/375474/is-it-easy-to-hack-a-weak-passworded-linux-pc-from-the-internet",
+            "title": "Is it easy to hack a weak passworded linux pc from the Internet?",
+            "tags": [
+                "security",
+                "passwords",
+                "internet-security",
+                "password-protection"
+            ]
+        }
+    ],
+    "ms-security-essentials": [
+        {
+            "link": "https://superuser.com/questions/136222/microsoft-security-essentials-msmpeng-exe-hogging-resources",
+            "title": "Microsoft Security Essentials &amp; MsMpEng.exe hogging resources",
+            "tags": [
+                "windows-7",
+                "task-manager",
+                "ms-security-essentials"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/135405/how-to-get-microsoft-security-essentials-to-work-through-a-proxy",
+            "title": "How to get Microsoft Security Essentials to work through a proxy?",
+            "tags": [
+                "windows-7",
+                "windows",
+                "64-bit",
+                "proxy",
+                "ms-security-essentials"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/493152/windows-defender-vs-security-essentials-in-windows-8",
+            "title": "Windows Defender vs. Security Essentials in Windows 8",
+            "tags": [
+                "security",
+                "windows-8",
+                "ms-security-essentials",
+                "windows-defender"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/573826/disable-msmpsvc-from-command-line",
+            "title": "Disable MsMpSvc from command line",
+            "tags": [
+                "windows-7",
+                "command-line",
+                "ms-security-essentials"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/83758/how-to-keep-windows-7-from-sleeping-while-scanning-the-pc",
+            "title": "How to keep Windows 7 from sleeping while scanning the PC",
+            "tags": [
+                "windows-7",
+                "anti-virus",
+                "sleep",
+                "ms-security-essentials"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/105922/remove-the-microsoft-security-essentials-icon",
+            "title": "Remove the Microsoft Security Essentials icon",
+            "tags": [
+                "windows-7",
+                "notification-area",
+                "ms-security-essentials"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/269738/security-threat-caused-by-dropbox",
+            "title": "Security threat caused by Dropbox?",
+            "tags": [
+                "security",
+                "virus",
+                "dropbox",
+                "ms-security-essentials"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/640354/microsoft-security-essentials-does-not-turn-on-at-startup",
+            "title": "Microsoft Security Essentials does not turn on at startup",
+            "tags": [
+                "windows-7",
+                "windows",
+                "security",
+                "ms-security-essentials"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/49336/is-there-a-way-to-disable-the-tray-icon-for-microsoft-security-essentials",
+            "title": "Is there a way to disable the tray icon for Microsoft Security Essentials?",
+            "tags": [
+                "notification-area",
+                "ms-security-essentials"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/300633/how-do-i-allow-programs-that-generate-high-or-severe-alerts-in-ms-security-e",
+            "title": "How do I allow programs that generate &quot;high&quot; or &quot;severe&quot; alerts in MS Security Essentials?",
+            "tags": [
+                "ms-security-essentials"
+            ]
+        }
+    ],
+    "security-policy": [
+        {
+            "link": "https://superuser.com/questions/647246/disabling-password-complexity-requirements-on-windows-7",
+            "title": "Disabling Password Complexity Requirements on Windows 7",
+            "tags": [
+                "windows-7",
+                "windows",
+                "security-policy"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/1276036/is-constrained-language-mode-enabled-by-default",
+            "title": "Is Constrained Language mode enabled by Default?",
+            "tags": [
+                "windows-10",
+                "powershell",
+                "security-policy"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/229431/change-local-time-on-xp-box-local-admin-but-group-policy-restricts-time-change",
+            "title": "Change local time on XP box - local admin but group policy restricts time change",
+            "tags": [
+                "windows-xp",
+                "group-policy",
+                "security-policy"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/643886/keep-windows-from-showing-a-wifi-password",
+            "title": "keep windows from showing a wifi password",
+            "tags": [
+                "windows",
+                "security",
+                "security-policy"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/650717/blocking-incoming-connections-from-ip-in-windows-xp",
+            "title": "Blocking incoming connections from IP in windows XP",
+            "tags": [
+                "firewall",
+                "ip",
+                "security-policy"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/736056/how-can-i-install-a-keyboard-layout-on-a-locked-down-workstation",
+            "title": "How can I install a keyboard layout on a locked-down workstation?",
+            "tags": [
+                "windows-7",
+                "keyboard-layout",
+                "dvorak",
+                "security-policy"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/842778/enabling-welcome-screen-windows-7-embedded",
+            "title": "Enabling welcome screen Windows 7 Embedded",
+            "tags": [
+                "windows-7",
+                "group-policy",
+                "login-screen",
+                "windows-embedded-7",
+                "security-policy"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/1013351/setting-audit-policy-on-any-windows-version",
+            "title": "Setting audit policy on any Windows version",
+            "tags": [
+                "windows-8.1",
+                "security-policy"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/1093193/restricting-a-programs-access-to-the-windows-registry",
+            "title": "Restricting a program&#39;s access to the Windows registry",
+            "tags": [
+                "windows",
+                "security",
+                "windows-registry",
+                "access-control",
+                "security-policy"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/1375982/origin-policy-violation-on-google-by-pages",
+            "title": "Origin Policy violation on google.by pages",
+            "tags": [
+                "google-search",
+                "security-policy"
+            ]
+        }
+    ],
+    "security-warning": [
+        {
+            "link": "https://superuser.com/questions/1441134/disable-firefoxs-open-executable-file-warning",
+            "title": "Disable Firefox&#39;s &quot;Open Executable File&quot; warning",
+            "tags": [
+                "firefox",
+                "security-warning"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/126509/get-rid-of-vista-security-warning",
+            "title": "Get rid of Vista security warning",
+            "tags": [
+                "windows-vista",
+                "security-warning"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/367127/how-to-get-rid-of-security-warning-when-running-batch-script-on-network-drive",
+            "title": "How to get rid of security warning when running batch script on network drive",
+            "tags": [
+                "windows-vista",
+                "security-warning"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/166261/remove-process-explorers-open-file-security-warning",
+            "title": "Remove Process Explorer&#39;s &quot;Open File - Security Warning&quot;",
+            "tags": [
+                "security-warning",
+                "process-explorer"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/256390/how-can-i-suppress-google-chromes-virus-warning-page",
+            "title": "How can I suppress Google Chrome&#39;s virus warning page?",
+            "tags": [
+                "google-chrome",
+                "malware",
+                "security-warning"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/488732/security-warning-on-scripts-but-only-on-desktop",
+            "title": "Security Warning on scripts, but only on desktop",
+            "tags": [
+                "windows-7",
+                "security",
+                "permissions",
+                "security-warning"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/594084/chrome-won-t-allow-installing-an-extension-from-local-crx-files",
+            "title": "Chrome won\u2019t allow installing an extension from local .crx files",
+            "tags": [
+                "google-chrome",
+                "installation",
+                "browser-addons",
+                "google-chrome-extensions",
+                "security-warning"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/662836/security-warning-for-exe-files-in-specific-path",
+            "title": "Security warning for EXE files in specific path",
+            "tags": [
+                "windows-7",
+                "windows",
+                "permissions",
+                "security-warning"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/682374/bogus-chrome-installer",
+            "title": "Bogus Chrome Installer?",
+            "tags": [
+                "windows",
+                "security",
+                "certificate",
+                "security-warning"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/742658/ssl-https-http-secure-sites-wont-display-is-client-or-server-side",
+            "title": "SSL https (http secure) sites won&#39;t display is client or server side?",
+            "tags": [
+                "firefox",
+                "arch-linux",
+                "ssl",
+                "security-warning"
+            ]
+        }
+    ],
+    "norton-internet-security": [
+        {
+            "link": "https://superuser.com/questions/277629/how-to-disable-the-norton-internet-security-reminder-without-uninstall-norton-co",
+            "title": "How to disable the Norton Internet Security Reminder without uninstall Norton completely?",
+            "tags": [
+                "norton-antivirus",
+                "norton-internet-security"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/397559/symtdi-sys-is-causing-blue-screen-after-upgrading-to-norton-internet-security",
+            "title": "&quot;symtdi.sys&quot; Is Causing Blue-screen After Upgrading To Norton Internet Security 2012?",
+            "tags": [
+                "windows-vista",
+                "bsod",
+                "norton-internet-security"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/443438/disable-norton-idle-time-scan-notification-pop-up",
+            "title": "Disable Norton Idle-time Scan Notification Pop-up?",
+            "tags": [
+                "notifications",
+                "popups",
+                "norton-internet-security"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/634345/do-i-need-norton-internet-security-if-my-windows-8-machine-has-windows-defender",
+            "title": "Do I need Norton Internet Security if my Windows 8 machine has Windows Defender?",
+            "tags": [
+                "windows-8",
+                "windows-defender",
+                "norton-internet-security"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/636514/system-menus-and-norton-anti-virus",
+            "title": "System Menu&#39;s and Norton Anti-Virus",
+            "tags": [
+                "windows",
+                "windows-8",
+                "norton-internet-security"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/853695/cant-close-norton-popup-window-when-installing-shockwave-player",
+            "title": "Can&#39;t close Norton popup window when installing Shockwave player",
+            "tags": [
+                "windows",
+                "flash-player",
+                "norton-internet-security"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/1594485/fully-uninstall-norton-from-mac",
+            "title": "Fully uninstall Norton from mac",
+            "tags": [
+                "macos",
+                "uninstall",
+                "norton-internet-security"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/370002/norton-internet-security-has-removed-all-the-shortcuts-from-my-start-menu",
+            "title": "Norton Internet Security Has Removed All The Shortcuts From My Start Menu?",
+            "tags": [
+                "windows-7",
+                "shortcuts",
+                "start-menu",
+                "norton-internet-security"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/444813/how-to-revert-to-older-version-of-norton-internet-security",
+            "title": "How to revert to older version of Norton Internet Security?",
+            "tags": [
+                "norton-antivirus",
+                "norton-internet-security"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/1258624/norton-always-blocking-my-firefox",
+            "title": "Norton always blocking my Firefox",
+            "tags": [
+                "firefox",
+                "norton-internet-security",
+                "norton-antivirus"
+            ]
+        }
+    ],
+    "domain-security": [
+        {
+            "link": "https://superuser.com/questions/394932/shall-i-prefer-to-log-in-as-machine-administrator-or-domain-administrator-when-r",
+            "title": "Shall I prefer to log in as machine administrator or domain administrator when repairing stations?",
+            "tags": [
+                "windows-domain",
+                "domain-security"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/321870/issues-with-domain-secure-channel-causing-latency",
+            "title": "Issues with domain secure channel causing latency",
+            "tags": [
+                "windows-xp",
+                "windows-domain",
+                "domain-security"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/651222/how-to-find-the-owner-of-a-file-created-on-another-domain",
+            "title": "How to find the owner of a file created on another domain?",
+            "tags": [
+                "windows-7",
+                "permissions",
+                "windows-domain",
+                "domain-security"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/756488/how-can-i-restrict-a-user-in-an-ad-environment-only-to-have-vpn-access-but-no-di",
+            "title": "How can I restrict a user in an AD environment only to have vpn access but no directory share rights?",
+            "tags": [
+                "vpn",
+                "firewall",
+                "active-directory",
+                "restrictions",
+                "domain-security"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/892936/must-i-purchase-windows-server-to-set-policies-or-enable-domain-login",
+            "title": "Must I purchase Windows Server to set policies or enable domain login?",
+            "tags": [
+                "group-policy",
+                "windows-domain",
+                "ldap",
+                "qnap",
+                "domain-security"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/1098511/is-there-a-way-to-remotely-disable-a-domain-laptop-surfacebook",
+            "title": "Is there a way to remotely disable a domain laptop (SurfaceBook)",
+            "tags": [
+                "windows-10",
+                "windows-domain",
+                "microsoft-surface",
+                "domain-security"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/1124641/how-to-delete-a-former-admin-user-from-sbs2011",
+            "title": "How to delete a former admin user from SBS2011?",
+            "tags": [
+                "windows-domain",
+                "windows-sbs",
+                "domain-security"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/1325386/add-a-computer-as-a-trusted-device-to-a-domain",
+            "title": "Add a computer as a trusted device to a domain",
+            "tags": [
+                "windows-7",
+                "active-directory",
+                "windows-server-2012-r2",
+                "windows-domain",
+                "domain-security"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/1516149/what-are-the-benefits-of-upgrading-the-domain-functional-level",
+            "title": "what are the benefits of upgrading the domain functional level?",
+            "tags": [
+                "active-directory",
+                "domain",
+                "windows-server",
+                "windows-server-2016",
+                "domain-security"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/1600041/how-to-prevent-byo-devices-connecting-to-ad-domain",
+            "title": "How to prevent BYO devices connecting to AD domain",
+            "tags": [
+                "active-directory",
+                "group-policy",
+                "windows-domain",
+                "kerberos",
+                "domain-security"
+            ]
+        }
+    ],
+    "physical-security": [
+        {
+            "link": "https://superuser.com/questions/320365/what-should-i-look-for-in-an-object-when-securing-a-laptop-with-a-kensington-loc",
+            "title": "What should I look for in an object when securing a laptop with a Kensington lock?",
+            "tags": [
+                "laptop",
+                "physical-security",
+                "kensington-lock"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/708620/bios-settings-changed-unexpectedly",
+            "title": "BIOS settings changed unexpectedly",
+            "tags": [
+                "motherboard",
+                "desktop",
+                "cmos",
+                "physical-security"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/1495344/implication-of-physical-access-to-a-hard-drive-with-bitlocker-enabled-but-withou",
+            "title": "Implication of physical access to a hard drive with Bitlocker enabled but without TPM",
+            "tags": [
+                "windows-10",
+                "security",
+                "bitlocker",
+                "tpm",
+                "physical-security"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/1551448/how-to-make-physical-reset-button-require-long-press",
+            "title": "How to make physical reset button require long press",
+            "tags": [
+                "linux",
+                "windows-10",
+                "case",
+                "winapi",
+                "physical-security"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/1336529/what-would-the-ideal-situation-be-that-would-cause-you-to-be-the-most-anonymous",
+            "title": "What would the ideal situation be that would cause you to be the most anonymous?",
+            "tags": [
+                "security",
+                "ip",
+                "javascript",
+                "tor",
+                "physical-security"
+            ]
+        }
+    ],
+    "security-groups": [
+        {
+            "link": "https://superuser.com/questions/991167/how-to-connect-my-vnc-server-without-opening-the-port-5901",
+            "title": "How to connect my VNC server without opening the port 5901?",
+            "tags": [
+                "port-forwarding",
+                "amazon-ec2",
+                "vncserver",
+                "security-groups",
+                "tigervnc"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/1035710/grant-all-ntfs-permissions-to-a-security-group",
+            "title": "Grant all NTFS permissions to a security group",
+            "tags": [
+                "windows-7",
+                "ntfs",
+                "security-groups"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/1196517/can-security-groups-on-active-directory-get-email-addresses-automatically",
+            "title": "Can security groups on Active Directory get email addresses automatically?",
+            "tags": [
+                "exchange",
+                "active-directory",
+                "exchange-2010",
+                "distribution-list",
+                "security-groups"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/1453341/allowing-all-traffic-to-office-ips-and-employees-home-ips-dynamic-ips",
+            "title": "Allowing all traffic to office IPs and employees home IPs (dynamic IPs)",
+            "tags": [
+                "networking",
+                "security",
+                "amazon-web-services",
+                "security-groups"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/1661936/not-able-to-allow-nginx-to-run-on-different-port-3000-without-opening-the-3000-p",
+            "title": "Not able to allow nginx to run on different port 3000 without opening the 3000 port in security group for everyone in EC2",
+            "tags": [
+                "nginx",
+                "amazon-web-services",
+                "amazon-ec2",
+                "ubuntu-18.04",
+                "security-groups"
+            ]
+        }
+    ],
+    "security-center": [
+        {
+            "link": "https://superuser.com/questions/70737/windows-security-center-not-recognizing-third-party-utilities-after-system-resto",
+            "title": "Windows Security Center Not Recognizing Third Party Utilities After System Restore",
+            "tags": [
+                "windows-xp",
+                "anti-virus",
+                "firewall",
+                "system-restore",
+                "security-center"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/469829/windows-security-center-service-error-1802-showing-up-in-event-viewer",
+            "title": "Windows Security Center Service error 1802 showing up in event viewer",
+            "tags": [
+                "windows-xp",
+                "security-center"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/544081/windows-security-center-service-always-disabled-and-microsoft-security-essential",
+            "title": "Windows Security-Center service always disabled and Microsoft Security Essentials won&#39;t start",
+            "tags": [
+                "ms-security-essentials",
+                "virus",
+                "security-center"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/1601477/security-center-disable-cannot-be-started",
+            "title": "Security Center Disable cannot be started",
+            "tags": [
+                "windows-10",
+                "services",
+                "security-center"
+            ]
+        }
+    ]
+}

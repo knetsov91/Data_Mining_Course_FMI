@@ -1,0 +1,1021 @@
+{
+ 
+        "database": [
+            {
+                "link": "https://stackoverflow.com/questions/38549/what-is-the-difference-between-inner-join-and-outer-join",
+                "title": "What is the difference between &quot;INNER JOIN&quot; and &quot;OUTER JOIN&quot;?",
+                "tags": [
+                    "sql",
+                    "database",
+                    "join",
+                    "inner-join",
+                    "outer-join"
+                ]
+            },
+            {
+                "link": "https://stackoverflow.com/questions/1108/how-does-database-indexing-work",
+                "title": "How does database indexing work?",
+                "tags": [
+                    "sql",
+                    "database",
+                    "performance",
+                    "indexing",
+                    "database-indexes"
+                ]
+            },
+            {
+                "link": "https://stackoverflow.com/questions/97197/what-is-the-n1-selects-problem-in-orm-object-relational-mapping",
+                "title": "What is the &quot;N+1 selects problem&quot; in ORM (Object-Relational Mapping)?",
+                "tags": [
+                    "database",
+                    "orm"
+                ]
+            },
+            {
+                "link": "https://stackoverflow.com/questions/25969/insert-into-values-select-from",
+                "title": "Insert into ... values ( SELECT ... FROM ... )",
+                "tags": [
+                    "sql",
+                    "database",
+                    "syntax",
+                    "database-agnostic",
+                    "ansi-sql-92"
+                ]
+            },
+            {
+                "link": "https://stackoverflow.com/questions/4048151/what-are-the-options-for-storing-hierarchical-data-in-a-relational-database",
+                "title": "What are the options for storing hierarchical data in a relational database?",
+                "tags": [
+                    "sql",
+                    "database",
+                    "tree",
+                    "relational-database",
+                    "hierarchical-data"
+                ]
+            },
+            {
+                "link": "https://stackoverflow.com/questions/82875/how-can-i-list-the-tables-in-a-sqlite-database-file-that-was-opened-with-attach",
+                "title": "How can I list the tables in a SQLite database file that was opened with ATTACH?",
+                "tags": [
+                    "sql",
+                    "database",
+                    "sqlite",
+                    "metadata"
+                ]
+            },
+            {
+                "link": "https://stackoverflow.com/questions/13733719/which-version-of-postgresql-am-i-running",
+                "title": "Which version of PostgreSQL am I running?",
+                "tags": [
+                    "linux",
+                    "database",
+                    "postgresql"
+                ]
+            },
+            {
+                "link": "https://stackoverflow.com/questions/67093/how-do-i-quickly-rename-a-mysql-database-change-schema-name",
+                "title": "How do I quickly rename a MySQL database (change schema name)?",
+                "tags": [
+                    "mysql",
+                    "database",
+                    "innodb",
+                    "rename"
+                ]
+            },
+            {
+                "link": "https://stackoverflow.com/questions/20148/myisam-versus-innodb",
+                "title": "MyISAM versus InnoDB",
+                "tags": [
+                    "mysql",
+                    "database",
+                    "performance",
+                    "innodb",
+                    "myisam"
+                ]
+            },
+            {
+                "link": "https://stackoverflow.com/questions/21824478/reset-identity-seed-after-deleting-records-in-sql-server",
+                "title": "Reset identity seed after deleting records in SQL Server",
+                "tags": [
+                    "sql",
+                    "sql-server",
+                    "database",
+                    "sql-server-2008",
+                    "azure-sql-database"
+                ]
+            }
+        ],
+        "firebase-realtime-database": [
+            {
+                "link": "https://stackoverflow.com/questions/46549766/whats-the-difference-between-cloud-firestore-and-the-firebase-realtime-database",
+                "title": "What&#39;s the difference between Cloud Firestore and the Firebase Realtime Database?",
+                "tags": [
+                    "firebase",
+                    "firebase-realtime-database",
+                    "google-cloud-platform",
+                    "google-cloud-firestore"
+                ]
+            },
+            {
+                "link": "https://stackoverflow.com/questions/26700924/query-based-on-multiple-where-clauses-in-firebase",
+                "title": "Query based on multiple where clauses in Firebase",
+                "tags": [
+                    "firebase",
+                    "firebase-realtime-database"
+                ]
+            },
+            {
+                "link": "https://stackoverflow.com/questions/13955813/firebase-storage-how-to-store-and-retrieve-images",
+                "title": "Firebase Storage How to store and Retrieve images",
+                "tags": [
+                    "firebase",
+                    "firebase-realtime-database",
+                    "firebase-storage"
+                ]
+            },
+            {
+                "link": "https://stackoverflow.com/questions/42751074/how-to-protect-firebase-cloud-function-http-endpoint-to-allow-only-firebase-auth",
+                "title": "How to protect firebase Cloud Function HTTP endpoint to allow only Firebase authenticated users?",
+                "tags": [
+                    "firebase",
+                    "firebase-realtime-database",
+                    "firebase-authentication",
+                    "firebase-security",
+                    "google-cloud-functions"
+                ]
+            },
+            {
+                "link": "https://stackoverflow.com/questions/29223835/mongodb-vs-firebase",
+                "title": "MongoDB vs Firebase",
+                "tags": [
+                    "ios",
+                    "mongodb",
+                    "firebase",
+                    "firebase-realtime-database",
+                    "mongodb-query"
+                ]
+            },
+            {
+                "link": "https://stackoverflow.com/questions/42726870/firebase-cloud-functions-is-very-slow",
+                "title": "Firebase cloud functions is very slow",
+                "tags": [
+                    "node.js",
+                    "firebase",
+                    "firebase-realtime-database",
+                    "google-cloud-functions"
+                ]
+            },
+            {
+                "link": "https://stackoverflow.com/questions/50149266/compilation-failed-to-completeprogram-type-already-present-com-google-android",
+                "title": "Compilation failed to complete:Program type already present: com.google.android.gms.internal.measurement.zzabn",
+                "tags": [
+                    "java",
+                    "android",
+                    "firebase",
+                    "android-studio",
+                    "firebase-realtime-database"
+                ]
+            },
+            {
+                "link": "https://stackoverflow.com/questions/37403747/firebase-permission-denied",
+                "title": "Firebase Permission Denied",
+                "tags": [
+                    "javascript",
+                    "firebase",
+                    "firebase-realtime-database",
+                    "firebase-security"
+                ]
+            },
+            {
+                "link": "https://stackoverflow.com/questions/40563140/error-no-firebase-app-default-has-been-created-call-firebase-app-initiali",
+                "title": "Error: No Firebase App &#39;[DEFAULT]&#39; has been created - call Firebase App.initializeApp()",
+                "tags": [
+                    "javascript",
+                    "ios",
+                    "node.js",
+                    "firebase",
+                    "firebase-realtime-database"
+                ]
+            },
+            {
+                "link": "https://stackoverflow.com/questions/14963776/get-users-by-name-property-using-firebase",
+                "title": "Get users by name property using Firebase",
+                "tags": [
+                    "firebase",
+                    "firebase-realtime-database"
+                ]
+            }
+        ],
+        "database-design": [
+            {
+                "link": "https://stackoverflow.com/questions/7662/database-table-and-column-naming-conventions",
+                "title": "Database, Table and Column Naming Conventions?",
+                "tags": [
+                    "database",
+                    "database-design",
+                    "language-agnostic",
+                    "naming-conventions"
+                ]
+            },
+            {
+                "link": "https://stackoverflow.com/questions/762937/whats-the-difference-between-identifying-and-non-identifying-relationships",
+                "title": "What&#39;s the difference between identifying and non-identifying relationships?",
+                "tags": [
+                    "database",
+                    "database-design",
+                    "data-modeling",
+                    "identifying-relationship"
+                ]
+            },
+            {
+                "link": "https://stackoverflow.com/questions/11707879/difference-between-scaling-horizontally-and-vertically-for-databases",
+                "title": "Difference between scaling horizontally and vertically for databases",
+                "tags": [
+                    "database",
+                    "database-design",
+                    "nosql",
+                    "scalability"
+                ]
+            },
+            {
+                "link": "https://stackoverflow.com/questions/2892729/mongodb-vs-cassandra",
+                "title": "MongoDB vs. Cassandra",
+                "tags": [
+                    "mongodb",
+                    "database-design",
+                    "cassandra",
+                    "database"
+                ]
+            },
+            {
+                "link": "https://stackoverflow.com/questions/621884/database-development-mistakes-made-by-application-developers",
+                "title": "Database development mistakes made by application developers",
+                "tags": [
+                    "database",
+                    "database-design"
+                ]
+            },
+            {
+                "link": "https://stackoverflow.com/questions/159255/what-is-the-ideal-data-type-to-use-when-storing-latitude-longitude-in-a-mysql",
+                "title": "What is the ideal data type to use when storing latitude / longitude in a MySQL database?",
+                "tags": [
+                    "mysql",
+                    "database-design",
+                    "maps",
+                    "mapping",
+                    "latitude-longitude"
+                ]
+            },
+            {
+                "link": "https://stackoverflow.com/questions/217945/can-i-have-multiple-primary-keys-in-a-single-table",
+                "title": "Can I have multiple primary keys in a single table?",
+                "tags": [
+                    "database",
+                    "database-design",
+                    "primary-key",
+                    "composite-primary-key"
+                ]
+            },
+            {
+                "link": "https://stackoverflow.com/questions/3653462/is-storing-a-delimited-list-in-a-database-column-really-that-bad",
+                "title": "Is storing a delimited list in a database column really that bad?",
+                "tags": [
+                    "database",
+                    "database-design",
+                    "database-normalization"
+                ]
+            },
+            {
+                "link": "https://stackoverflow.com/questions/11938044/what-are-the-best-practices-for-using-a-guid-as-a-primary-key-specifically-rega",
+                "title": "What are the best practices for using a GUID as a primary key, specifically regarding performance?",
+                "tags": [
+                    "sql-server",
+                    "entity-framework",
+                    "database-design",
+                    "primary-key",
+                    "guid"
+                ]
+            },
+            {
+                "link": "https://stackoverflow.com/questions/840162/should-each-and-every-table-have-a-primary-key",
+                "title": "Should each and every table have a primary key?",
+                "tags": [
+                    "database",
+                    "database-design"
+                ]
+            }
+        ],
+        "azure-sql-database": [
+            {
+                "link": "https://stackoverflow.com/questions/21824478/reset-identity-seed-after-deleting-records-in-sql-server",
+                "title": "Reset identity seed after deleting records in SQL Server",
+                "tags": [
+                    "sql",
+                    "sql-server",
+                    "database",
+                    "sql-server-2008",
+                    "azure-sql-database"
+                ]
+            },
+            {
+                "link": "https://stackoverflow.com/questions/5475306/how-do-i-copy-sql-azure-database-to-my-local-development-server",
+                "title": "How do I copy SQL Azure database to my local development server?",
+                "tags": [
+                    "sql-server",
+                    "azure",
+                    "azure-sql-database",
+                    "database-migration"
+                ]
+            },
+            {
+                "link": "https://stackoverflow.com/questions/20304058/how-to-re-create-database-for-entity-framework",
+                "title": "How to re-create database for Entity Framework?",
+                "tags": [
+                    "asp.net-mvc",
+                    "entity-framework",
+                    "azure",
+                    "azure-sql-database"
+                ]
+            },
+            {
+                "link": "https://stackoverflow.com/questions/26986213/stopping-sql-azure-db-when-not-in-use",
+                "title": "Stopping SQL Azure DB when not in use",
+                "tags": [
+                    "azure",
+                    "azure-sql-database",
+                    "azure-management"
+                ]
+            },
+            {
+                "link": "https://stackoverflow.com/questions/7847189/azure-sql-database-bacpac-local-restore",
+                "title": "Azure SQL Database Bacpac Local Restore",
+                "tags": [
+                    "azure",
+                    "azure-sql-database",
+                    "bacpac"
+                ]
+            },
+            {
+                "link": "https://stackoverflow.com/questions/19334041/the-select-permission-was-denied-on-the-object-users-database-xxx-schema",
+                "title": "The SELECT permission was denied on the object &#39;Users&#39;, database &#39;XXX&#39;, schema &#39;dbo&#39;",
+                "tags": [
+                    "sql-server",
+                    "azure-sql-database"
+                ]
+            },
+            {
+                "link": "https://stackoverflow.com/questions/13639262/optimal-way-to-concatenate-aggregate-strings",
+                "title": "Optimal way to concatenate/aggregate strings",
+                "tags": [
+                    "sql",
+                    "sql-server",
+                    "azure",
+                    "aggregate-functions",
+                    "azure-sql-database"
+                ]
+            },
+            {
+                "link": "https://stackoverflow.com/questions/13790752/password-reset-for-azure-database",
+                "title": "Password reset for Azure database",
+                "tags": [
+                    "azure",
+                    "azure-sql-database"
+                ]
+            },
+            {
+                "link": "https://stackoverflow.com/questions/23268495/how-do-i-change-the-name-of-an-azure-resource-group",
+                "title": "How do I change the name of an Azure Resource Group?",
+                "tags": [
+                    "azure",
+                    "azure-sql-database",
+                    "azure-web-app-service"
+                ]
+            },
+            {
+                "link": "https://stackoverflow.com/questions/25906628/azure-sql-database-dtu-percentage-metric",
+                "title": "Azure SQL Database &quot;DTU percentage&quot; metric",
+                "tags": [
+                    "azure",
+                    "azure-sql-database",
+                    "azure-storage",
+                    "azure-monitoring"
+                ]
+            }
+        ],
+        "database-connection": [
+            {
+                "link": "https://stackoverflow.com/questions/3582552/what-is-the-format-for-the-postgresql-connection-string-url",
+                "title": "What is the format for the PostgreSQL connection string / URL?",
+                "tags": [
+                    "postgresql",
+                    "database-connection"
+                ]
+            },
+            {
+                "link": "https://stackoverflow.com/questions/41645309/mysql-error-access-denied-for-user-rootlocalhost",
+                "title": "MySQL Error: : &#39;Access denied for user &#39;root&#39;@&#39;localhost&#39;",
+                "tags": [
+                    "mysql",
+                    "sql",
+                    "database",
+                    "database-connection"
+                ]
+            },
+            {
+                "link": "https://stackoverflow.com/questions/18060667/cannot-connect-to-server-a-network-related-or-instance-specific-error",
+                "title": "Cannot Connect to Server - A network-related or instance-specific error",
+                "tags": [
+                    "sql-server",
+                    "visual-studio",
+                    "database-connection"
+                ]
+            },
+            {
+                "link": "https://stackoverflow.com/questions/34189756/warning-about-ssl-connection-when-connecting-to-mysql-database",
+                "title": "Warning about SSL connection when connecting to MySQL database",
+                "tags": [
+                    "java",
+                    "ssl",
+                    "database-connection",
+                    "mysql-error-1064"
+                ]
+            },
+            {
+                "link": "https://stackoverflow.com/questions/10656574/how-do-i-manage-mongodb-connections-in-a-node-js-web-application",
+                "title": "How do I manage MongoDB connections in a Node.js web application?",
+                "tags": [
+                    "node.js",
+                    "mongodb",
+                    "database-connection",
+                    "connection-pooling"
+                ]
+            },
+            {
+                "link": "https://stackoverflow.com/questions/19828385/pgconnectionbad-could-not-connect-to-server-connection-refused",
+                "title": "PG::ConnectionBad - could not connect to server: Connection refused",
+                "tags": [
+                    "ruby-on-rails",
+                    "ruby",
+                    "database",
+                    "postgresql",
+                    "database-connection"
+                ]
+            },
+            {
+                "link": "https://stackoverflow.com/questions/857670/how-to-connect-to-sql-server-database-from-javascript-in-the-browser",
+                "title": "How to connect to SQL Server database from JavaScript in the browser?",
+                "tags": [
+                    "javascript",
+                    "sql-server",
+                    "database-connection"
+                ]
+            },
+            {
+                "link": "https://stackoverflow.com/questions/27435839/how-to-list-active-connections-on-postgresql",
+                "title": "How to list active connections on PostgreSQL?",
+                "tags": [
+                    "sql",
+                    "postgresql",
+                    "database-connection",
+                    "listings"
+                ]
+            },
+            {
+                "link": "https://stackoverflow.com/questions/2475008/mssql-error-the-underlying-provider-failed-on-open",
+                "title": "MSSQL Error &#39;The underlying provider failed on Open&#39;",
+                "tags": [
+                    "c#",
+                    "sql-server",
+                    "entity-framework",
+                    "database-connection"
+                ]
+            },
+            {
+                "link": "https://stackoverflow.com/questions/42135114/how-does-spring-jpa-hibernate-ddl-auto-property-exactly-work-in-spring",
+                "title": "How does spring.jpa.hibernate.ddl-auto property exactly work in Spring?",
+                "tags": [
+                    "spring",
+                    "hibernate",
+                    "jpa",
+                    "database-connection",
+                    "ddl"
+                ]
+            }
+        ],
+        "relational-database": [
+            {
+                "link": "https://stackoverflow.com/questions/4048151/what-are-the-options-for-storing-hierarchical-data-in-a-relational-database",
+                "title": "What are the options for storing hierarchical data in a relational database?",
+                "tags": [
+                    "sql",
+                    "database",
+                    "tree",
+                    "relational-database",
+                    "hierarchical-data"
+                ]
+            },
+            {
+                "link": "https://stackoverflow.com/questions/93539/what-is-the-difference-between-views-and-materialized-views-in-oracle",
+                "title": "What is the difference between Views and Materialized Views in Oracle?",
+                "tags": [
+                    "sql",
+                    "oracle",
+                    "view",
+                    "relational-database",
+                    "materialized-views"
+                ]
+            },
+            {
+                "link": "https://stackoverflow.com/questions/7296846/how-to-implement-one-to-one-one-to-many-and-many-to-many-relationships-while-de",
+                "title": "How to implement one-to-one, one-to-many and many-to-many relationships while designing tables?",
+                "tags": [
+                    "sql",
+                    "database-design",
+                    "foreign-keys",
+                    "relational-database",
+                    "relationship"
+                ]
+            },
+            {
+                "link": "https://stackoverflow.com/questions/173726/when-and-why-are-database-joins-expensive",
+                "title": "When and why are database joins expensive?",
+                "tags": [
+                    "database",
+                    "performance",
+                    "join",
+                    "relational-database",
+                    "denormalization"
+                ]
+            },
+            {
+                "link": "https://stackoverflow.com/questions/30231862/laravel-eloquent-has-with-wherehas-what-do-they-mean",
+                "title": "Laravel - Eloquent &quot;Has&quot;, &quot;With&quot;, &quot;WhereHas&quot; - What do they mean?",
+                "tags": [
+                    "laravel",
+                    "orm",
+                    "eloquent",
+                    "relational-database",
+                    "relationship"
+                ]
+            },
+            {
+                "link": "https://stackoverflow.com/questions/9614922/does-the-join-order-matter-in-sql",
+                "title": "Does the join order matter in SQL?",
+                "tags": [
+                    "sql",
+                    "join",
+                    "relational-database"
+                ]
+            },
+            {
+                "link": "https://stackoverflow.com/questions/4814167/storing-time-series-data-relational-or-non",
+                "title": "Storing time-series data, relational or non?",
+                "tags": [
+                    "database",
+                    "nosql",
+                    "relational-database",
+                    "time-series",
+                    "non-relational-database"
+                ]
+            },
+            {
+                "link": "https://stackoverflow.com/questions/7844460/foreign-key-to-multiple-tables",
+                "title": "Foreign Key to multiple tables",
+                "tags": [
+                    "sql-server",
+                    "relational-database"
+                ]
+            },
+            {
+                "link": "https://stackoverflow.com/questions/4702728/relational-table-naming-convention",
+                "title": "Relational table naming convention",
+                "tags": [
+                    "database",
+                    "database-design",
+                    "coding-style",
+                    "naming-conventions",
+                    "relational-database"
+                ]
+            },
+            {
+                "link": "https://stackoverflow.com/questions/8437957/difference-between-3nf-and-bcnf-in-simple-terms-must-be-able-to-explain-to-an-8",
+                "title": "Difference between 3NF and BCNF in simple terms (must be able to explain to an 8-year old)",
+                "tags": [
+                    "database",
+                    "relational-database",
+                    "database-normalization",
+                    "3nf"
+                ]
+            }
+        ],
+        "database-migration": [
+            {
+                "link": "https://stackoverflow.com/questions/11904571/ef-migrations-rollback-last-applied-migration",
+                "title": "EF Migrations: Rollback last applied migration?",
+                "tags": [
+                    "entity-framework",
+                    "entity-framework-4",
+                    "database-migration",
+                    "entity-framework-migrations"
+                ]
+            },
+            {
+                "link": "https://stackoverflow.com/questions/30287896/rollback-one-specific-migration-in-laravel",
+                "title": "Rollback one specific migration in Laravel",
+                "tags": [
+                    "laravel",
+                    "laravel-4",
+                    "laravel-5",
+                    "database-migration"
+                ]
+            },
+            {
+                "link": "https://stackoverflow.com/questions/11679385/reset-entity-framework-migrations",
+                "title": "Reset Entity-Framework Migrations",
+                "tags": [
+                    "entity-framework",
+                    "database-migration",
+                    "entity-framework-migrations"
+                ]
+            },
+            {
+                "link": "https://stackoverflow.com/questions/5475306/how-do-i-copy-sql-azure-database-to-my-local-development-server",
+                "title": "How do I copy SQL Azure database to my local development server?",
+                "tags": [
+                    "sql-server",
+                    "azure",
+                    "azure-sql-database",
+                    "database-migration"
+                ]
+            },
+            {
+                "link": "https://stackoverflow.com/questions/6004915/how-do-i-move-a-redis-database-from-one-server-to-another",
+                "title": "How do I move a redis database from one server to another?",
+                "tags": [
+                    "database",
+                    "redis",
+                    "data-migration",
+                    "database-migration"
+                ]
+            },
+            {
+                "link": "https://stackoverflow.com/questions/29756194/access-denied-for-user-homesteadlocalhost-using-password-yes",
+                "title": "Access denied for user &#39;homestead&#39;@&#39;localhost&#39; (using password: YES)",
+                "tags": [
+                    "php",
+                    "laravel",
+                    "laravel-5",
+                    "database-migration",
+                    "homestead"
+                ]
+            },
+            {
+                "link": "https://stackoverflow.com/questions/14013832/make-column-not-nullable-in-a-laravel-migration",
+                "title": "Make column not nullable in a Laravel migration",
+                "tags": [
+                    "php",
+                    "sql",
+                    "database-migration",
+                    "laravel"
+                ]
+            },
+            {
+                "link": "https://stackoverflow.com/questions/21105748/sequelize-js-how-to-use-migrations-and-sync",
+                "title": "Sequelize.js: how to use migrations and sync",
+                "tags": [
+                    "database",
+                    "node.js",
+                    "database-migration",
+                    "sequelize.js"
+                ]
+            },
+            {
+                "link": "https://stackoverflow.com/questions/5682068/rails-migration-remove-constraint",
+                "title": "Rails Migration: Remove constraint",
+                "tags": [
+                    "ruby-on-rails",
+                    "database-migration"
+                ]
+            },
+            {
+                "link": "https://stackoverflow.com/questions/44651760/django-db-migrations-exceptions-inconsistentmigrationhistory",
+                "title": "django.db.migrations.exceptions.InconsistentMigrationHistory",
+                "tags": [
+                    "python",
+                    "django",
+                    "django-models",
+                    "django-rest-framework",
+                    "database-migration"
+                ]
+            }
+        ],
+        "database-schema": [
+            {
+                "link": "https://stackoverflow.com/questions/3647685/how-to-rollback-a-specific-migration",
+                "title": "How to rollback a specific migration?",
+                "tags": [
+                    "ruby-on-rails",
+                    "schema",
+                    "database-schema",
+                    "rollback"
+                ]
+            },
+            {
+                "link": "https://stackoverflow.com/questions/5213339/how-to-see-indexes-for-a-database-or-table-in-mysql",
+                "title": "How to see indexes for a database or table in MySQL?",
+                "tags": [
+                    "mysql",
+                    "indexing",
+                    "database-schema"
+                ]
+            },
+            {
+                "link": "https://stackoverflow.com/questions/3330435/is-there-an-sqlite-equivalent-to-mysqls-describe-table",
+                "title": "Is there an SQLite equivalent to MySQL&#39;s DESCRIBE [table]?",
+                "tags": [
+                    "mysql",
+                    "database",
+                    "sqlite",
+                    "database-schema",
+                    "dbtable"
+                ]
+            },
+            {
+                "link": "https://stackoverflow.com/questions/1498777/how-do-i-show-the-schema-of-a-table-in-a-mysql-database",
+                "title": "How do I show the schema of a table in a MySQL database?",
+                "tags": [
+                    "mysql",
+                    "database",
+                    "schema",
+                    "database-schema"
+                ]
+            },
+            {
+                "link": "https://stackoverflow.com/questions/11618277/difference-between-schema-database-in-mysql",
+                "title": "Difference Between Schema / Database in MySQL",
+                "tags": [
+                    "mysql",
+                    "database",
+                    "schema",
+                    "database-schema"
+                ]
+            },
+            {
+                "link": "https://stackoverflow.com/questions/21900185/what-are-oltp-and-olap-what-is-the-difference-between-them",
+                "title": "What are OLTP and OLAP. What is the difference between them?",
+                "tags": [
+                    "database",
+                    "database-design",
+                    "database-schema",
+                    "olap",
+                    "oltp"
+                ]
+            },
+            {
+                "link": "https://stackoverflow.com/questions/5648420/how-to-get-all-columns-names-for-all-the-tables-in-mysql",
+                "title": "How to get all columns&#39; names for all the tables in MySQL?",
+                "tags": [
+                    "mysql",
+                    "database-schema",
+                    "database-metadata"
+                ]
+            },
+            {
+                "link": "https://stackoverflow.com/questions/29145370/how-can-i-initialize-a-mysql-database-with-schema-in-a-docker-container",
+                "title": "How can I initialize a MySQL database with schema in a Docker container?",
+                "tags": [
+                    "mysql",
+                    "docker",
+                    "database-schema"
+                ]
+            },
+            {
+                "link": "https://stackoverflow.com/questions/5323740/difference-between-database-and-schema",
+                "title": "Difference between database and schema",
+                "tags": [
+                    "sql-server",
+                    "database",
+                    "sql-server-2005",
+                    "database-schema"
+                ]
+            },
+            {
+                "link": "https://stackoverflow.com/questions/4168689/is-it-possible-to-specify-the-schema-when-connecting-to-postgres-with-jdbc",
+                "title": "Is it possible to specify the schema when connecting to postgres with JDBC?",
+                "tags": [
+                    "java",
+                    "database",
+                    "postgresql",
+                    "jdbc",
+                    "database-schema"
+                ]
+            }
+        ],
+        "graph-databases": [
+            {
+                "link": "https://stackoverflow.com/questions/2285045/what-scalability-problems-have-you-encountered-using-a-nosql-data-store",
+                "title": "What scalability problems have you encountered using a NoSQL data store?",
+                "tags": [
+                    "database",
+                    "nosql",
+                    "key-value-store",
+                    "graph-databases",
+                    "distributed-database"
+                ]
+            },
+            {
+                "link": "https://stackoverflow.com/questions/1000162/what-are-the-use-cases-of-graph-based-databases-http-neo4j-org",
+                "title": "What are the use cases of Graph-based Databases (http://neo4j.org/)?",
+                "tags": [
+                    "database",
+                    "neo4j",
+                    "graph-databases"
+                ]
+            },
+            {
+                "link": "https://stackoverflow.com/questions/13046442/comparison-of-relational-databases-and-graph-databases",
+                "title": "Comparison of Relational Databases and Graph Databases",
+                "tags": [
+                    "sql",
+                    "relational-database",
+                    "graph-databases"
+                ]
+            },
+            {
+                "link": "https://stackoverflow.com/questions/13824962/neo4j-cypher-vs-gremlin-query-language",
+                "title": "Neo4j - Cypher vs Gremlin query language",
+                "tags": [
+                    "neo4j",
+                    "graph-databases",
+                    "cypher",
+                    "gremlin"
+                ]
+            },
+            {
+                "link": "https://stackoverflow.com/questions/30166007/graph-databases-vs-triple-stores-when-to-use-which",
+                "title": "Graph Databases vs Triple Stores - when to use which?",
+                "tags": [
+                    "neo4j",
+                    "sparql",
+                    "graph-databases",
+                    "orientdb",
+                    "triplestore"
+                ]
+            },
+            {
+                "link": "https://stackoverflow.com/questions/816055/graph-database-for-net",
+                "title": "Graph database for .NET",
+                "tags": [
+                    "c#",
+                    "java",
+                    ".net",
+                    "mono",
+                    "graph-databases"
+                ]
+            },
+            {
+                "link": "https://stackoverflow.com/questions/2541891/is-it-a-good-idea-to-use-mysql-and-neo4j-together",
+                "title": "Is it a good idea to use MySQL and Neo4j together?",
+                "tags": [
+                    "architecture",
+                    "mysql",
+                    "hierarchical-data",
+                    "neo4j",
+                    "graph-databases"
+                ]
+            },
+            {
+                "link": "https://stackoverflow.com/questions/2218118/what-is-the-difference-between-graph-based-databases-and-object-oriented-databas",
+                "title": "What is the difference between graph-based databases and object-oriented databases?",
+                "tags": [
+                    "database",
+                    "db4o",
+                    "neo4j",
+                    "graph-databases",
+                    "object-oriented-database"
+                ]
+            },
+            {
+                "link": "https://stackoverflow.com/questions/26307381/experiences-orientdb-vs-neo4j",
+                "title": "Experiences OrientDB vs Neo4j",
+                "tags": [
+                    "neo4j",
+                    "graph-databases",
+                    "orientdb"
+                ]
+            },
+            {
+                "link": "https://stackoverflow.com/questions/20776718/how-to-model-graph-data-in-postgresql",
+                "title": "How to model Graph data in Postgresql?",
+                "tags": [
+                    "postgresql",
+                    "graph",
+                    "graph-databases"
+                ]
+            }
+        ],
+        "database-performance": [
+            {
+                "link": "https://stackoverflow.com/questions/1276/how-big-can-a-mysql-database-get-before-performance-starts-to-degrade",
+                "title": "How big can a MySQL database get before performance starts to degrade",
+                "tags": [
+                    "mysql",
+                    "database",
+                    "database-performance"
+                ]
+            },
+            {
+                "link": "https://stackoverflow.com/questions/20151158/using-git-repository-as-a-database-backend",
+                "title": "Using git repository as a database backend",
+                "tags": [
+                    "database",
+                    "git",
+                    "database-performance",
+                    "database-replication",
+                    "document-database"
+                ]
+            },
+            {
+                "link": "https://stackoverflow.com/questions/6520439/how-to-configure-mongodb-java-driver-mongooptions-for-production-use",
+                "title": "How to configure MongoDB Java driver MongoOptions for production use?",
+                "tags": [
+                    "mongodb",
+                    "production-environment",
+                    "database-performance",
+                    "database-tuning"
+                ]
+            },
+            {
+                "link": "https://stackoverflow.com/questions/3184478/how-many-columns-is-too-many-columns",
+                "title": "How many columns is too many columns?",
+                "tags": [
+                    "database",
+                    "database-design",
+                    "database-performance"
+                ]
+            },
+            {
+                "link": "https://stackoverflow.com/questions/9739230/entity-framework-vs-stored-procedures-performance-measure",
+                "title": "Entity Framework Vs Stored Procedures - Performance Measure",
+                "tags": [
+                    "entity-framework",
+                    "stored-procedures",
+                    "performance-testing",
+                    "database-performance"
+                ]
+            },
+            {
+                "link": "https://stackoverflow.com/questions/20336665/lower-like-vs-ilike",
+                "title": "LOWER LIKE vs iLIKE",
+                "tags": [
+                    "performance",
+                    "postgresql",
+                    "pattern-matching",
+                    "database-performance"
+                ]
+            },
+            {
+                "link": "https://stackoverflow.com/questions/11419536/postgresql-truncation-speed",
+                "title": "Postgresql Truncation speed",
+                "tags": [
+                    "postgresql",
+                    "database-performance",
+                    "truncate"
+                ]
+            },
+            {
+                "link": "https://stackoverflow.com/questions/20388923/database-partitioning-horizontal-vs-vertical-difference-between-normalizatio",
+                "title": "Database partitioning - Horizontal vs Vertical - Difference between Normalization and Row Splitting?",
+                "tags": [
+                    "database",
+                    "database-design",
+                    "database-performance",
+                    "sharding",
+                    "database-partitioning"
+                ]
+            },
+            {
+                "link": "https://stackoverflow.com/questions/45879/mysql-partitioning-sharding-splitting-which-way-to-go",
+                "title": "MySQL Partitioning / Sharding / Splitting - which way to go?",
+                "tags": [
+                    "mysql",
+                    "partitioning",
+                    "database-performance",
+                    "sharding"
+                ]
+            },
+            {
+                "link": "https://stackoverflow.com/questions/1017239/how-do-null-values-affect-performance-in-a-database-search",
+                "title": "How do NULL values affect performance in a database search?",
+                "tags": [
+                    "sql",
+                    "database",
+                    "oracle",
+                    "database-performance",
+                    "query-performance"
+                ]
+            }
+        ]
+ 
+ 
+}

@@ -1,0 +1,953 @@
+{
+    "linux": [
+        {
+            "link": "https://superuser.com/questions/1034137/did-i-just-get-hacked",
+            "title": "Did I just get hacked?",
+            "tags": [
+                "linux",
+                "networking",
+                "trojan"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/272061/reload-a-linux-users-group-assignments-without-logging-out",
+            "title": "Reload a Linux user&#39;s group assignments without logging out",
+            "tags": [
+                "linux",
+                "shell",
+                "debian",
+                "permissions",
+                "gnu-screen"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/480950/how-to-decompress-a-bz2-file",
+            "title": "How to decompress a .bz2 file",
+            "tags": [
+                "linux",
+                "compression",
+                "bzip2"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/621870/test-if-a-port-on-a-remote-system-is-reachable-without-telnet",
+            "title": "Test if a port on a remote system is reachable (without telnet)",
+            "tags": [
+                "linux",
+                "networking",
+                "port"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/176783/what-is-the-difference-between-executing-a-bash-script-vs-sourcing-it",
+            "title": "What is the difference between executing a Bash script vs sourcing it?",
+            "tags": [
+                "linux",
+                "bash",
+                "script"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/268230/how-can-i-resume-a-stopped-job-in-linux",
+            "title": "How can I resume a stopped job in Linux?",
+            "tags": [
+                "linux",
+                "sh",
+                "job-control"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/90008/how-to-clear-the-contents-of-a-file-from-the-command-line",
+            "title": "How to clear the contents of a file from the command line?",
+            "tags": [
+                "linux",
+                "command-line"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/125376/how-do-i-compare-binary-files-in-linux",
+            "title": "How do I compare binary files in Linux?",
+            "tags": [
+                "linux",
+                "diff",
+                "binary-files"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/284898/how-to-check-which-apache-modules-are-enabled-installed",
+            "title": "How to check which apache modules are enabled/installed?",
+            "tags": [
+                "linux",
+                "ubuntu",
+                "apache-http-server"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/467398/how-do-i-exit-an-ssh-connection",
+            "title": "How do I exit an SSH connection?",
+            "tags": [
+                "linux",
+                "ssh",
+                "virtualbox"
+            ]
+        }
+    ],
+    "linux-mint": [
+        {
+            "link": "https://superuser.com/questions/640412/ubuntu-and-linux-mint-only-run-in-software-rendering-mode-on-virtualbox",
+            "title": "Ubuntu and Linux Mint only run in Software Rendering Mode on Virtualbox",
+            "tags": [
+                "linux",
+                "ubuntu",
+                "virtualbox",
+                "linux-mint"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/969707/on-linux-is-it-safe-to-use-an-external-usb-hard-drive-for-the-home-mount",
+            "title": "On Linux, is it safe to use an external USB hard drive for the /home mount?",
+            "tags": [
+                "linux",
+                "linux-mint"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/1163375/cant-format-nor-access-a-detected-usb-key-no-medium-found",
+            "title": "Can&#39;t format nor access a detected USB key... &quot;No medium found&quot;",
+            "tags": [
+                "linux",
+                "partitioning",
+                "usb-flash-drive",
+                "linux-mint",
+                "gparted"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/1291939/shortcut-to-change-keyboard-layout-in-linux-mint-cinnamon",
+            "title": "Shortcut to change keyboard layout in Linux Mint (Cinnamon)",
+            "tags": [
+                "linux",
+                "keyboard-shortcuts",
+                "linux-mint",
+                "keyboard-layout",
+                "cinnamon"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/611922/how-can-i-use-wget-to-download-large-files",
+            "title": "how can I use wget to download large files?",
+            "tags": [
+                "linux",
+                "linux-mint",
+                "wget"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/810097/vmware-player-bridged-networking-no-longer-works-host-win8-1-guest-mint-17-l",
+            "title": "VMware Player &quot;Bridged&quot; networking no longer works - host=win8.1 guest=Mint 17 Linux",
+            "tags": [
+                "networking",
+                "laptop",
+                "windows-8.1",
+                "linux-mint",
+                "vmware-player"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/396988/how-to-remap-capslock-to-esc-in-linux-mint-12",
+            "title": "How to remap CAPSLOCK to ESC in Linux Mint 12",
+            "tags": [
+                "linux",
+                "linux-mint",
+                "remapping"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/404732/how-to-use-wget-with-tor-bundle-in-linux",
+            "title": "How to use Wget with Tor Bundle in Linux",
+            "tags": [
+                "linux",
+                "proxy",
+                "wget",
+                "linux-mint",
+                "tor"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/814004/is-it-safe-to-download-and-burn-a-disc-image-on-an-infected-pc",
+            "title": "Is it safe to download and burn a disc image on an infected PC?",
+            "tags": [
+                "linux-mint",
+                "virus"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/862994/how-to-enable-linux-swap-partition",
+            "title": "How to enable linux swap partition?",
+            "tags": [
+                "linux",
+                "partitioning",
+                "linux-mint",
+                "swap"
+            ]
+        }
+    ],
+    "arch-linux": [
+        {
+            "link": "https://superuser.com/questions/1210758/error-one-or-more-pgp-signatures-could-not-be-verified-arch-linux",
+            "title": "ERROR: One or more PGP signatures could not be verified, arch linux",
+            "tags": [
+                "linux",
+                "arch-linux",
+                "pgp",
+                "pacman"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/160432/speedup-a-video-on-linux",
+            "title": "Speedup a Video on Linux",
+            "tags": [
+                "linux",
+                "video",
+                "ffmpeg",
+                "arch-linux",
+                "mencoder"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/1042175/how-do-i-get-systemctl-to-print-in-color-when-being-interacted-with-from-a-non-t",
+            "title": "How do I get systemctl to print in color when being interacted with from a non-tty?",
+            "tags": [
+                "linux",
+                "arch-linux",
+                "tty",
+                "watch",
+                "systemctl"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/121787/disable-windows-key-hotkeys-when-using-virtualbox",
+            "title": "Disable Windows Key hotkeys when using Virtualbox",
+            "tags": [
+                "windows-7",
+                "virtualbox",
+                "emacs",
+                "hotkeys",
+                "arch-linux"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/200444/why-do-we-have-3-types-of-x-selections-in-linux",
+            "title": "Why do we have 3 types of X-selections in LINUX?",
+            "tags": [
+                "linux",
+                "arch-linux"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/323484/what-do-the-power-management-tools-in-linux-do-acpi-pm-utils-etc",
+            "title": "What do the power management tools in Linux do? (acpi, pm-utils, etc...)",
+            "tags": [
+                "linux",
+                "arch-linux",
+                "xfce",
+                "acpi"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/476379/how-do-i-setup-a-systemd-service-to-be-started-by-a-non-root-user-as-a-user-daem",
+            "title": "How do I setup a systemd service to be started by a non root user as a user daemon?",
+            "tags": [
+                "arch-linux",
+                "user",
+                "rtorrent",
+                "systemd"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/576723/what-is-rootfs-and-what-can-you-do-with-it",
+            "title": "What is rootfs# and what can you do with it?",
+            "tags": [
+                "command-line",
+                "boot",
+                "arch-linux",
+                "prompt"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/95129/arch-linux-whatprovides-equivalent-option-for-pacman",
+            "title": "Arch Linux: &#39;whatprovides&#39; equivalent option for pacman",
+            "tags": [
+                "linux",
+                "package-management",
+                "arch-linux"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/795472/pacman-doesnt-download-anything-always-404",
+            "title": "Pacman doesn&#39;t download anything - Always 404",
+            "tags": [
+                "arch-linux",
+                "updates",
+                "package-management",
+                "packages"
+            ]
+        }
+    ],
+    "windows-subsystem-for-linux": [
+        {
+            "link": "https://superuser.com/questions/1108090/how-do-i-change-the-language-of-the-linux-subsystem-in-windows-10-wsl",
+            "title": "How do I change the language of the Linux subsystem in Windows 10 (WSL)?",
+            "tags": [
+                "windows-10",
+                "bash",
+                "windows-subsystem-for-linux",
+                "windows-10-v1607"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/1164818/how-to-backup-wsl-linux-subsystem-for-windows-10-before-system-reset-or-reins",
+            "title": "How to backup (WSL) Linux Subsystem for Windows 10, before system reset or reinstall?",
+            "tags": [
+                "bash",
+                "backup",
+                "reinstall",
+                "reset",
+                "windows-subsystem-for-linux"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/1271682/is-there-a-way-of-installing-ubuntu-windows-subsystem-for-linux-on-win10-v170",
+            "title": "Is there a way of installing Ubuntu (Windows Subsystem for Linux) on Win10 (v1709) without using the Store?",
+            "tags": [
+                "ubuntu",
+                "windows-subsystem-for-linux",
+                "windows-10-v1709"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/1123552/how-to-ssh-into-wsl-from-windows-on-the-same-machine",
+            "title": "How to SSH into WSL from Windows on the same machine",
+            "tags": [
+                "windows-10",
+                "bash",
+                "ssh",
+                "windows-subsystem-for-linux"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/1533291/how-do-i-change-the-dns-settings-for-wsl2",
+            "title": "How do I change the DNS settings for WSL2?",
+            "tags": [
+                "windows-10",
+                "ubuntu",
+                "dns",
+                "windows-subsystem-for-linux"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/1108120/how-to-disable-bash-on-windows-notification-sound-effect",
+            "title": "How to disable Bash on Windows notification sound effect",
+            "tags": [
+                "windows-10",
+                "bash",
+                "windows-subsystem-for-linux",
+                "windows-10-v1607"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/1365258/how-to-change-the-dark-blue-in-wsl-to-something-brighter",
+            "title": "How to change the dark blue in wsl to something brighter?",
+            "tags": [
+                "windows-subsystem-for-linux"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/1113385/convert-windows-path-for-windows-ubuntu-bash",
+            "title": "Convert Windows path for Windows Ubuntu Bash",
+            "tags": [
+                "windows-subsystem-for-linux"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/1323645/unable-to-change-file-permissions-on-ubuntu-bash-for-windows-10",
+            "title": "Unable to change file permissions on Ubuntu Bash for Windows 10",
+            "tags": [
+                "windows-10",
+                "ubuntu",
+                "bash",
+                "ssh",
+                "windows-subsystem-for-linux"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/1109993/accessing-removable-media-in-bash-on-windows",
+            "title": "Accessing removable media in Bash on Windows",
+            "tags": [
+                "windows-10",
+                "bash",
+                "windows-subsystem-for-linux",
+                "windows-10-v1607"
+            ]
+        }
+    ],
+    "kali-linux": [
+        {
+            "link": "https://superuser.com/questions/977331/how-to-make-openvas-listen-on-an-external-interface",
+            "title": "How to make OpenVAS listen on an external interface?",
+            "tags": [
+                "kali-linux"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/1030850/kali-linux-debootstrap-error-failed-to-determine-codename-for-the-release",
+            "title": "Kali Linux - Debootstrap error Failed to determine codename for the release",
+            "tags": [
+                "linux",
+                "debian",
+                "mount",
+                "kali-linux"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/1386209/how-to-solve-this-dependencies-apt-fix-broken-install",
+            "title": "How to solve this Dependencies apt --fix-broken install",
+            "tags": [
+                "debian",
+                "installation",
+                "kali-linux",
+                "dependencies"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/1000698/apt-get-update-fails-kali-linux-with-virtual-box",
+            "title": "&quot;apt-get update&quot; Fails? (Kali Linux with Virtual Box)",
+            "tags": [
+                "linux",
+                "virtualbox",
+                "kali-linux",
+                "apt-get",
+                "apt"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/1012567/what-happens-if-you-delete-all-secure-boot-variables",
+            "title": "What happens if you delete all secure boot variables?",
+            "tags": [
+                "windows",
+                "uefi",
+                "kali-linux",
+                "secure-boot"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/1042521/kali-linux-rolling-apt-get-upgrade-failed-to-fetch-404-not-found",
+            "title": "Kali Linux Rolling - apt-get upgrade: failed to fetch 404 not found",
+            "tags": [
+                "linux",
+                "kali-linux",
+                "apt-get"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/1128060/kali-for-raspberry-pi-3-exploitdb-update-hangs-and-does-nothing",
+            "title": "Kali for Raspberry Pi 3: exploitdb update hangs and does nothing",
+            "tags": [
+                "kali-linux",
+                "raspberry-pi"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/1199826/black-screen-kali-linux-2016-2-on-virtualbox",
+            "title": "Black screen Kali Linux 2016.2 on VirtualBox",
+            "tags": [
+                "linux",
+                "virtualbox",
+                "kali-linux"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/1202978/installing-mysql-server-in-kali-linux",
+            "title": "Installing MySQL Server in Kali Linux",
+            "tags": [
+                "linux",
+                "mysql",
+                "kali-linux"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/1301437/getting-a-your-password-no-longer-matches-your-keyring-error-when-i-try-to-acc",
+            "title": "Getting a &quot;your password no longer matches your keyring&quot; error when I try to access my VPN on Kali Linux",
+            "tags": [
+                "linux",
+                "kali-linux"
+            ]
+        }
+    ],
+    "windows": [
+        {
+            "link": "https://superuser.com/questions/358434/how-to-check-if-a-binary-is-32-or-64-bit-on-windows",
+            "title": "How to check if a binary is 32 or 64 bit on Windows?",
+            "tags": [
+                "windows",
+                "binary-files",
+                "32-vs-64-bit"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/707767/how-can-i-free-up-drive-space-from-the-windows-installer-folder-without-killing",
+            "title": "How can I free up drive space from the Windows installer folder without killing Windows?",
+            "tags": [
+                "windows",
+                "windows-10",
+                "windows-8.1",
+                "disk-space",
+                "windows-installer"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/25538/how-to-download-files-from-command-line-in-windows-like-wget-or-curl",
+            "title": "How to download files from command line in Windows like wget or curl",
+            "tags": [
+                "windows",
+                "wget",
+                "curl"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/486496/how-do-i-exit-telnet",
+            "title": "How do I exit telnet?",
+            "tags": [
+                "windows",
+                "telnet"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/890812/how-to-rename-the-user-folder-in-windows-10",
+            "title": "How to rename the User folder in Windows 10?",
+            "tags": [
+                "windows",
+                "windows-10",
+                "onedrive"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/78434/how-to-delete-directories-with-path-names-too-long-for-normal-delete",
+            "title": "How to delete directories with path/names too long for normal delete",
+            "tags": [
+                "windows",
+                "file-management"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/922068/how-to-disable-the-get-windows-10-icon-shown-in-the-notification-area-tray",
+            "title": "How to disable the &quot;Get Windows 10&quot; icon shown in the notification area (tray)?",
+            "tags": [
+                "windows",
+                "windows-10-upgrade"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/1296024/windows-ssh-permissions-for-private-key-are-too-open",
+            "title": "Windows SSH: Permissions for &#39;private-key&#39; are too open",
+            "tags": [
+                "windows",
+                "ssh",
+                "permissions",
+                "openssh",
+                "private-key"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/434870/what-is-the-windows-equivalent-of-the-unix-command-cat",
+            "title": "What is the Windows equivalent of the Unix command cat? ",
+            "tags": [
+                "windows",
+                "unix",
+                "cat"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/914782/how-do-you-list-all-processes-on-the-command-line-in-windows",
+            "title": "How do you list all processes on the command line in Windows?",
+            "tags": [
+                "windows",
+                "command-line"
+            ]
+        }
+    ],
+    "windows-7": [
+        {
+            "link": "https://superuser.com/questions/346142/my-windows-keyboard-is-being-clever-with-the-quote-keys-how-can-i-stop-it",
+            "title": "My windows keyboard is being &quot;clever&quot; with the quote keys - how can I stop it?",
+            "tags": [
+                "windows-7",
+                "keyboard",
+                "input-languages"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/300815/grep-equivalent-for-windows-7",
+            "title": "Grep equivalent for Windows 7?",
+            "tags": [
+                "windows-7",
+                "grep",
+                "cmd.exe"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/342052/how-to-get-svg-thumbnails-in-windows-explorer",
+            "title": "How to get SVG thumbnails in Windows Explorer?",
+            "tags": [
+                "windows-7",
+                "64-bit",
+                "windows-explorer",
+                "thumbnails",
+                "svg"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/28893/how-do-i-get-different-background-images-on-my-dual-monitors",
+            "title": "How do I get different background images on my dual monitors?",
+            "tags": [
+                "windows-7",
+                "multiple-monitors",
+                "desktop-customization"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/60173/how-to-search-inside-files-on-windows-7",
+            "title": "How to search inside files on Windows 7?",
+            "tags": [
+                "windows-7",
+                "windows",
+                "windows-search",
+                "file-filter"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/1093/how-to-control-windows-7-snap-feature-with-two-monitors",
+            "title": "How to control Windows 7 snap feature with two monitors?",
+            "tags": [
+                "windows-7",
+                "multiple-monitors"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/109010/kill-a-process-which-says-access-denied",
+            "title": "Kill a process which says &quot;Access denied&quot;",
+            "tags": [
+                "windows-7",
+                "windows",
+                "64-bit"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/473464/how-do-i-reset-the-time-on-my-computer-without-turning-it-on",
+            "title": "How do I reset the time on my computer without turning it on?",
+            "tags": [
+                "windows-7",
+                "time"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/78761/where-can-i-download-windows-7-legally-from-microsoft",
+            "title": "Where can I download Windows 7 (legally from Microsoft)?",
+            "tags": [
+                "windows-7",
+                "download",
+                "iso-image",
+                "community-faq"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/86246/where-should-the-vimrc-file-be-located-on-windows-7",
+            "title": "Where should the .vimrc file be located on Windows 7?",
+            "tags": [
+                "windows-7",
+                "vimrc"
+            ]
+        }
+    ],
+    "windows-10": [
+        {
+            "link": "https://superuser.com/questions/950452/how-to-quickly-move-current-window-to-another-task-view-desktop-in-windows-10",
+            "title": "How to quickly move current window to another Task View / desktop in Windows 10?",
+            "tags": [
+                "windows",
+                "windows-10"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/949560/how-do-i-set-system-environment-variables-in-windows-10",
+            "title": "How do I set system environment variables in Windows 10?",
+            "tags": [
+                "windows",
+                "windows-10"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/1229963/windows-10-disable-reopening-programs-after-restart-startup",
+            "title": "Windows 10 - disable reopening programs after restart/startup",
+            "tags": [
+                "windows",
+                "windows-10",
+                "boot"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/1437590/typing-python-on-windows-10-version-1903-command-prompt-opens-microsoft-stor",
+            "title": "Typing \u201cpython\u201d on Windows 10 (version 1903) command prompt opens Microsoft store",
+            "tags": [
+                "windows-10",
+                "command-line",
+                "python",
+                "cmd.exe",
+                "unattended"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/947392/windows-10-search-cant-find-any-applications-even-calculator",
+            "title": "Windows 10 Search can&#39;t find ANY applications. Even calculator",
+            "tags": [
+                "windows",
+                "search",
+                "windows-10"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/1196618/how-to-disable-internet-search-results-in-start-menu-post-creators-update",
+            "title": "How to disable internet search results in start menu post Creators Update?",
+            "tags": [
+                "windows-10",
+                "windows-10-v1703",
+                "cortana",
+                "windows-10-v1803"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/1092246/how-to-prevent-windows-10-from-automatically-adding-keyboard-layouts-i-e-us-ke",
+            "title": "How to prevent Windows 10 from automatically adding keyboard layouts (i.e. US keyboard)",
+            "tags": [
+                "windows",
+                "windows-10",
+                "keyboard",
+                "language",
+                "input-languages"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/1066261/how-to-access-windows-folders-from-bash-on-ubuntu-on-windows",
+            "title": "How to access Windows folders from Bash on Ubuntu on Windows",
+            "tags": [
+                "windows-10",
+                "bash",
+                "shell",
+                "windows-subsystem-for-linux"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/1481191/remote-desktop-intermittently-freezing",
+            "title": "Remote Desktop intermittently freezing",
+            "tags": [
+                "windows-10",
+                "remote-desktop",
+                "windows-10-v1903"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/959258/change-name-of-virtual-desktop-in-windows-10",
+            "title": "Change name of Virtual Desktop in Windows 10",
+            "tags": [
+                "windows-10",
+                "virtual-desktop",
+                "virtual-desktop-manager"
+            ]
+        }
+    ],
+    "windows-8": [
+        {
+            "link": "https://superuser.com/questions/462687/how-do-i-turn-off-modern-ui-and-get-the-old-start-menu-back-in-windows-8",
+            "title": "How do I turn off Modern UI and get the old Start Menu back in Windows 8?",
+            "tags": [
+                "start-menu",
+                "windows-8",
+                "modern-ui"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/473410/disable-narrator-shortcut-key-in-windows",
+            "title": "Disable Narrator shortcut key in Windows",
+            "tags": [
+                "windows",
+                "windows-8",
+                "hotkeys"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/495201/display-the-taskbar-clock-on-multiple-screens-in-windows",
+            "title": "Display the taskbar clock on multiple screens in Windows?",
+            "tags": [
+                "windows",
+                "windows-8",
+                "taskbar",
+                "clock"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/803842/why-is-cbs-log-file-size-20-gb",
+            "title": "Why is CBS.log file size 20 GB",
+            "tags": [
+                "windows-8",
+                "hard-drive",
+                "logging",
+                "disk-space"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/460762/how-can-i-repair-the-windows-8-efi-bootloader",
+            "title": "How can I repair the Windows 8 EFI Bootloader?",
+            "tags": [
+                "windows-7",
+                "windows-8",
+                "bootloader",
+                "uefi"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/727356/why-is-the-total-memory-usage-reported-by-windows-task-manager-much-higher-than",
+            "title": "Why is the total memory usage reported by Windows Task Manager much higher than the sum of all processes&#39; memory usage?",
+            "tags": [
+                "windows-8",
+                "memory",
+                "windows-8.1"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/335473/how-do-i-exit-a-modern-ui-app",
+            "title": "How do I exit a Modern UI app?",
+            "tags": [
+                "windows-8",
+                "modern-ui"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/603315/how-do-i-stop-the-windows-8-restart-clock-15-minutes-and-counting",
+            "title": "How do I stop the Windows 8 restart clock; &#39;15 minutes&#39; and counting...?",
+            "tags": [
+                "windows-8",
+                "shutdown"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/490993/is-there-anyway-to-stop-windows-8-from-restarting-for-an-update",
+            "title": "Is there anyway to stop Windows 8 from restarting for an update?",
+            "tags": [
+                "windows-8",
+                "updates"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/495661/is-there-a-way-to-enable-god-mode-in-windows-8-like-you-could-in-windows-7",
+            "title": "Is there a way to enable &quot;god mode&quot; in Windows 8, like you could in Windows 7?",
+            "tags": [
+                "windows-8"
+            ]
+        }
+    ],
+    "operating-systems": [
+        {
+            "link": "https://superuser.com/questions/816018/what-is-the-relationship-between-unix-linux-ubuntu-debian-and-android",
+            "title": "What is the relationship between Unix, Linux, Ubuntu, Debian and Android?",
+            "tags": [
+                "linux",
+                "ubuntu",
+                "unix",
+                "debian",
+                "operating-systems"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/405947/is-unix-not-a-pc-operating-system",
+            "title": "Is Unix not a PC operating system?",
+            "tags": [
+                "linux",
+                "unix",
+                "operating-systems"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/1343849/would-an-executable-need-an-os-kernel-to-run",
+            "title": "Would an executable need an OS kernel to run?",
+            "tags": [
+                "operating-systems",
+                "kernel"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/179242/is-it-still-necessary-to-shut-down-computers",
+            "title": "Is it still necessary to shut down computers?",
+            "tags": [
+                "operating-systems",
+                "sleep",
+                "shutdown",
+                "hibernate",
+                "lifespan"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/463409/how-can-i-upgrade-from-windows-7-to-windows-8-and-keep-my-files-and-applications",
+            "title": "How can I upgrade from Windows 7 to Windows 8 and keep my files and applications?",
+            "tags": [
+                "windows-7",
+                "upgrade",
+                "operating-systems",
+                "windows-8"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/809750/before-operating-systems-what-concept-was-used-to-make-them-work",
+            "title": "Before Operating systems, What concept was used to make them work?",
+            "tags": [
+                "operating-systems"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/357328/how-computers-display-raw-low-level-text-and-graphics",
+            "title": "How computers display raw, low-level text and graphics",
+            "tags": [
+                "bios",
+                "operating-systems",
+                "graphics",
+                "interrupts"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/496099/was-windows-95-an-operating-system",
+            "title": "Was Windows 95 an Operating System?",
+            "tags": [
+                "windows",
+                "operating-systems",
+                "windows-95"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/521551/cat-proc-meminfo-what-do-all-those-numbers-mean",
+            "title": "cat /proc/meminfo what do all those numbers mean",
+            "tags": [
+                "linux",
+                "filesystems",
+                "operating-systems",
+                "proc"
+            ]
+        },
+        {
+            "link": "https://superuser.com/questions/329442/what-is-there-in-an-operating-system-other-than-the-kernel",
+            "title": "What is there in an Operating System other than the kernel",
+            "tags": [
+                "operating-systems",
+                "kernel"
+            ]
+        }
+    ]
+}

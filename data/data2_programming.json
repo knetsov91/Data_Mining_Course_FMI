@@ -1,0 +1,1010 @@
+{
+    "functional-programming": [
+        {
+            "link": "https://stackoverflow.com/questions/2078978/functional-programming-vs-object-oriented-programming",
+            "title": "Functional programming vs Object Oriented programming",
+            "tags": [
+                "oop",
+                "functional-programming",
+                "paradigms"
+            ]
+        },
+        {
+            "link": "https://stackoverflow.com/questions/36314/what-is-currying",
+            "title": "What is &#39;Currying&#39;?",
+            "tags": [
+                "javascript",
+                "functional-programming",
+                "terminology",
+                "definition",
+                "currying"
+            ]
+        },
+        {
+            "link": "https://stackoverflow.com/questions/1012573/getting-started-with-haskell",
+            "title": "Getting started with Haskell",
+            "tags": [
+                "haskell",
+                "functional-programming"
+            ]
+        },
+        {
+            "link": "https://stackoverflow.com/questions/7267760/how-can-a-time-function-exist-in-functional-programming",
+            "title": "How can a time function exist in functional programming?",
+            "tags": [
+                "functional-programming"
+            ]
+        },
+        {
+            "link": "https://stackoverflow.com/questions/3077866/large-scale-design-in-haskell",
+            "title": "Large-scale design in Haskell?",
+            "tags": [
+                "haskell",
+                "functional-programming",
+                "monads",
+                "large-scale"
+            ]
+        },
+        {
+            "link": "https://stackoverflow.com/questions/1604790/what-is-haskell-used-for-in-the-real-world",
+            "title": "What is Haskell used for in the real world?",
+            "tags": [
+                "haskell",
+                "functional-programming",
+                "programming-languages"
+            ]
+        },
+        {
+            "link": "https://stackoverflow.com/questions/36636/what-is-a-closure",
+            "title": "What is a &#39;Closure&#39;?",
+            "tags": [
+                "functional-programming",
+                "computer-science",
+                "terminology",
+                "glossary"
+            ]
+        },
+        {
+            "link": "https://stackoverflow.com/questions/38364400/index-inside-map-function",
+            "title": "Index inside map() function",
+            "tags": [
+                "javascript",
+                "functional-programming",
+                "immutable.js"
+            ]
+        },
+        {
+            "link": "https://stackoverflow.com/questions/2312881/what-is-the-difference-between-scalas-case-class-and-class",
+            "title": "What is the difference between Scala&#39;s case class and class?",
+            "tags": [
+                "scala",
+                "functional-programming",
+                "case-class"
+            ]
+        },
+        {
+            "link": "https://stackoverflow.com/questions/93526/what-is-a-y-combinator",
+            "title": "What is a Y-combinator?",
+            "tags": [
+                "functional-programming",
+                "computer-science",
+                "theory",
+                "definition",
+                "combinators"
+            ]
+        }
+    ],
+    "network-programming": [
+        {
+            "link": "https://stackoverflow.com/questions/27014955/socket-connect-vs-bind",
+            "title": "socket connect() vs bind()",
+            "tags": [
+                "c",
+                "sockets",
+                "network-programming"
+            ]
+        },
+        {
+            "link": "https://stackoverflow.com/questions/1637752/netty-vs-apache-mina",
+            "title": "Netty vs Apache MINA",
+            "tags": [
+                "java",
+                "network-programming",
+                "apache-mina",
+                "netty"
+            ]
+        },
+        {
+            "link": "https://stackoverflow.com/questions/4688855/whats-the-difference-between-streams-and-datagrams-in-network-programming",
+            "title": "What&#39;s the difference between streams and datagrams in network programming?",
+            "tags": [
+                "sockets",
+                "network-programming",
+                "datagram"
+            ]
+        },
+        {
+            "link": "https://stackoverflow.com/questions/717200/comparing-http-and-ftp-for-transferring-files",
+            "title": "Comparing HTTP and FTP for transferring files",
+            "tags": [
+                "http",
+                "ftp",
+                "network-programming",
+                "file-transfer"
+            ]
+        },
+        {
+            "link": "https://stackoverflow.com/questions/15108139/difference-between-socket-programming-and-http-programming",
+            "title": "difference between socket programming and Http programming",
+            "tags": [
+                "sockets",
+                "network-programming"
+            ]
+        },
+        {
+            "link": "https://stackoverflow.com/questions/10319643/proper-use-of-beginbackgroundtaskwithexpirationhandler",
+            "title": "Proper use of beginBackgroundTaskWithExpirationHandler",
+            "tags": [
+                "ios",
+                "objective-c",
+                "network-programming",
+                "multitasking",
+                "background-thread"
+            ]
+        },
+        {
+            "link": "https://stackoverflow.com/questions/107668/what-do-you-use-when-you-need-reliable-udp",
+            "title": "What do you use when you need reliable UDP?",
+            "tags": [
+                "sockets",
+                "tcp",
+                "network-programming",
+                "udp"
+            ]
+        },
+        {
+            "link": "https://stackoverflow.com/questions/14236296/asynchronous-function-call-in-php",
+            "title": "Asynchronous Function Call in PHP",
+            "tags": [
+                "php",
+                "asynchronous",
+                "network-programming"
+            ]
+        },
+        {
+            "link": "https://stackoverflow.com/questions/31446777/difference-between-packets-and-frames",
+            "title": "Difference between PACKETS and FRAMES",
+            "tags": [
+                "networking",
+                "network-programming"
+            ]
+        },
+        {
+            "link": "https://stackoverflow.com/questions/155243/why-is-it-impossible-without-attempting-i-o-to-detect-that-tcp-socket-was-grac",
+            "title": "Why is it impossible, without attempting I/O, to detect that TCP socket was gracefully closed by peer?",
+            "tags": [
+                "java",
+                "sockets",
+                "tcp",
+                "network-programming"
+            ]
+        }
+    ],
+    "reactive-programming": [
+        {
+            "link": "https://stackoverflow.com/questions/35357919/combine-a-list-of-observables-and-wait-until-all-completed",
+            "title": "Combine a list of Observables and wait until all completed",
+            "tags": [
+                "java",
+                "rx-java",
+                "reactive-programming",
+                "rx-android"
+            ]
+        },
+        {
+            "link": "https://stackoverflow.com/questions/33519816/shiny-what-is-the-difference-between-observeevent-and-eventreactive",
+            "title": "Shiny: what is the difference between observeEvent and eventReactive?",
+            "tags": [
+                "r",
+                "shiny",
+                "reactive-programming",
+                "shiny-server"
+            ]
+        },
+        {
+            "link": "https://stackoverflow.com/questions/13341937/whats-the-status-of-current-functional-reactive-programming-implementations",
+            "title": "What&#39;s the status of current Functional Reactive Programming implementations?",
+            "tags": [
+                "haskell",
+                "functional-programming",
+                "erlang",
+                "reactive-programming"
+            ]
+        },
+        {
+            "link": "https://stackoverflow.com/questions/28176072/in-rxjava-how-to-pass-a-variable-along-when-chaining-observables",
+            "title": "In RxJava, how to pass a variable along when chaining observables?",
+            "tags": [
+                "java",
+                "rx-java",
+                "reactive-programming",
+                "flatmap"
+            ]
+        },
+        {
+            "link": "https://stackoverflow.com/questions/5385377/the-difference-between-reactive-and-functional-reactive-programming",
+            "title": "The difference between Reactive and Functional-Reactive programming",
+            "tags": [
+                "programming-languages",
+                "functional-programming",
+                "paradigms",
+                "reactive-programming"
+            ]
+        },
+        {
+            "link": "https://stackoverflow.com/questions/36395252/how-to-get-data-from-observable-in-angular2",
+            "title": "How to get data from observable in angular2",
+            "tags": [
+                "typescript",
+                "angular",
+                "reactive-programming",
+                "rxjs",
+                "observable"
+            ]
+        },
+        {
+            "link": "https://stackoverflow.com/questions/30423413/node-js-streams-vs-observables",
+            "title": "Node.js Streams vs. Observables",
+            "tags": [
+                "javascript",
+                "node.js",
+                "reactive-programming",
+                "rxjs",
+                "bacon.js"
+            ]
+        },
+        {
+            "link": "https://stackoverflow.com/questions/37771855/chaining-observables-in-rxjs",
+            "title": "Chaining Observables in RxJS",
+            "tags": [
+                "javascript",
+                "promise",
+                "reactive-programming",
+                "rxjs",
+                "rxjs5"
+            ]
+        },
+        {
+            "link": "https://stackoverflow.com/questions/47974757/webclient-vs-resttemplate",
+            "title": "WebClient vs RestTemplate",
+            "tags": [
+                "spring",
+                "reactive-programming",
+                "resttemplate",
+                "web-client"
+            ]
+        },
+        {
+            "link": "https://stackoverflow.com/questions/33783967/rxjs-observable-doesnt-complete-when-an-error-occurs",
+            "title": "RxJS - observable doesn&#39;t complete when an error occurs",
+            "tags": [
+                "javascript",
+                "angular",
+                "rxjs",
+                "reactive-programming"
+            ]
+        }
+    ],
+    "dynamic-programming": [
+        {
+            "link": "https://stackoverflow.com/questions/2643908/getting-the-submatrix-with-maximum-sum",
+            "title": "Getting the submatrix with maximum sum?",
+            "tags": [
+                "algorithm",
+                "dynamic-programming",
+                "max",
+                "submatrix"
+            ]
+        },
+        {
+            "link": "https://stackoverflow.com/questions/6877249/find-the-number-of-occurrences-of-a-subsequence-in-a-string",
+            "title": "Find the number of occurrences of a subsequence in a string",
+            "tags": [
+                "python",
+                "algorithm",
+                "dynamic-programming"
+            ]
+        },
+        {
+            "link": "https://stackoverflow.com/questions/12133754/whats-the-difference-between-recursion-memoization-dynamic-programming",
+            "title": "What&#39;s the difference between recursion, memoization &amp; dynamic programming?",
+            "tags": [
+                "algorithm",
+                "recursion",
+                "dynamic-programming",
+                "memoization"
+            ]
+        },
+        {
+            "link": "https://stackoverflow.com/questions/22394257/how-to-count-integers-between-large-a-and-b-with-a-certain-property",
+            "title": "How to count integers between large A and B with a certain property?",
+            "tags": [
+                "algorithm",
+                "dynamic-programming"
+            ]
+        },
+        {
+            "link": "https://stackoverflow.com/questions/16257378/is-there-a-generic-way-to-memoize-in-scala",
+            "title": "Is there a generic way to memoize in Scala?",
+            "tags": [
+                "scala",
+                "scope",
+                "dynamic-programming",
+                "memoization",
+                "forward-reference"
+            ]
+        },
+        {
+            "link": "https://stackoverflow.com/questions/4355955/subset-sum-algorithm",
+            "title": "Subset Sum algorithm",
+            "tags": [
+                "algorithm",
+                "dynamic-programming",
+                "subset-sum"
+            ]
+        },
+        {
+            "link": "https://stackoverflow.com/questions/1469529/sum-of-digits-of-a-factorial",
+            "title": "Sum of digits of a factorial",
+            "tags": [
+                "algorithm",
+                "dynamic-programming",
+                "sum-of-digits"
+            ]
+        },
+        {
+            "link": "https://stackoverflow.com/questions/4976908/how-are-dynamic-programming-algorithms-implemented-in-idiomatic-haskell",
+            "title": "How are Dynamic Programming algorithms implemented in idiomatic Haskell?",
+            "tags": [
+                "haskell",
+                "functional-programming",
+                "dynamic-programming"
+            ]
+        },
+        {
+            "link": "https://stackoverflow.com/questions/39588554/minimum-number-of-steps-to-reduce-number-to-1",
+            "title": "minimum number of steps to reduce number to 1",
+            "tags": [
+                "algorithm",
+                "math",
+                "dynamic-programming"
+            ]
+        },
+        {
+            "link": "https://stackoverflow.com/questions/5850243/fsharp-runs-my-algorithm-slower-than-python",
+            "title": "FSharp runs my algorithm slower than Python",
+            "tags": [
+                "python",
+                "algorithm",
+                "performance",
+                "f#",
+                "dynamic-programming"
+            ]
+        }
+    ],
+    "metaprogramming": [
+        {
+            "link": "https://stackoverflow.com/questions/2331983/objective-c-class-string-like-nsarray-classname-nsarray",
+            "title": "Objective-C class -&gt; string like: [NSArray className] -&gt; @&quot;NSArray&quot;",
+            "tags": [
+                "objective-c",
+                "reflection",
+                "metaprogramming",
+                "objective-c-runtime"
+            ]
+        },
+        {
+            "link": "https://stackoverflow.com/questions/8763497/how-to-drive-c-c-or-java-compiler-to-compute-123-1000-at-compile-time",
+            "title": "How to drive C#, C++ or Java compiler to compute 1+2+3+...+1000 at compile time?",
+            "tags": [
+                "c#",
+                "java",
+                "c++",
+                "compiler-construction",
+                "metaprogramming"
+            ]
+        },
+        {
+            "link": "https://stackoverflow.com/questions/16115713/how-pony-orm-does-its-tricks",
+            "title": "How Pony (ORM) does its tricks?",
+            "tags": [
+                "python",
+                "orm",
+                "metaprogramming",
+                "dsl",
+                "ponyorm"
+            ]
+        },
+        {
+            "link": "https://stackoverflow.com/questions/112277/best-introduction-to-c-template-metaprogramming",
+            "title": "Best introduction to C++ template metaprogramming?",
+            "tags": [
+                "c++",
+                "templates",
+                "metaprogramming"
+            ]
+        },
+        {
+            "link": "https://stackoverflow.com/questions/752717/how-do-i-use-define-method-to-create-class-methods",
+            "title": "How do I use define_method to create class methods?",
+            "tags": [
+                "ruby",
+                "metaprogramming",
+                "class-method"
+            ]
+        },
+        {
+            "link": "https://stackoverflow.com/questions/2111667/compile-time-string-hashing",
+            "title": "Compile time string hashing",
+            "tags": [
+                "c++",
+                "metaprogramming",
+                "c++11",
+                "hash"
+            ]
+        },
+        {
+            "link": "https://stackoverflow.com/questions/5349624/how-to-call-methods-dynamically-based-on-their-name",
+            "title": "How to call methods dynamically based on their name?",
+            "tags": [
+                "ruby",
+                "dynamic",
+                "metaprogramming"
+            ]
+        },
+        {
+            "link": "https://stackoverflow.com/questions/1074729/get-the-value-of-an-instance-variable-given-its-name",
+            "title": "Get the value of an instance variable given its name",
+            "tags": [
+                "ruby",
+                "metaprogramming"
+            ]
+        },
+        {
+            "link": "https://stackoverflow.com/questions/4877290/what-is-the-dict-dict-attribute-of-a-python-class",
+            "title": "What is the __dict__.__dict__ attribute of a Python class?",
+            "tags": [
+                "python",
+                "class",
+                "metaprogramming",
+                "magic-methods"
+            ]
+        },
+        {
+            "link": "https://stackoverflow.com/questions/5622435/how-do-i-convert-a-ruby-class-name-to-a-underscore-delimited-symbol",
+            "title": "How do I convert a Ruby class name to a underscore-delimited symbol?",
+            "tags": [
+                "ruby-on-rails",
+                "ruby",
+                "metaprogramming"
+            ]
+        }
+    ],
+    "programming-languages": [
+        {
+            "link": "https://stackoverflow.com/questions/260626/what-is-type-safe",
+            "title": "What is Type-safe?",
+            "tags": [
+                "language-agnostic",
+                "programming-languages",
+                "computer-science",
+                "terminology",
+                "type-safety"
+            ]
+        },
+        {
+            "link": "https://stackoverflow.com/questions/580292/what-languages-are-windows-mac-os-x-and-linux-written-in",
+            "title": "What languages are Windows, Mac OS X and Linux written in?",
+            "tags": [
+                "windows",
+                "linux",
+                "macos",
+                "programming-languages",
+                "operating-system"
+            ]
+        },
+        {
+            "link": "https://stackoverflow.com/questions/3265357/compiled-vs-interpreted-languages",
+            "title": "Compiled vs. Interpreted Languages",
+            "tags": [
+                "java",
+                "python",
+                "compiler-construction",
+                "programming-languages",
+                "interpreter"
+            ]
+        },
+        {
+            "link": "https://stackoverflow.com/questions/442026/function-overloading-by-return-type",
+            "title": "Function overloading by return type?",
+            "tags": [
+                "programming-languages",
+                "language-design",
+                "overloading",
+                "function-calls"
+            ]
+        },
+        {
+            "link": "https://stackoverflow.com/questions/22873/language-books-tutorials-for-popular-languages",
+            "title": "Language Books/Tutorials for popular languages",
+            "tags": [
+                "programming-languages"
+            ]
+        },
+        {
+            "link": "https://stackoverflow.com/questions/3989264/best-explanation-for-languages-without-null",
+            "title": "Best explanation for languages without null",
+            "tags": [
+                "programming-languages",
+                "functional-programming",
+                "null",
+                "nullpointerexception",
+                "non-nullable"
+            ]
+        },
+        {
+            "link": "https://stackoverflow.com/questions/2684364/why-arent-programs-written-in-assembly-more-often",
+            "title": "Why aren&#39;t programs written in Assembly more often?",
+            "tags": [
+                "c",
+                "programming-languages",
+                "assembly"
+            ]
+        },
+        {
+            "link": "https://stackoverflow.com/questions/125367/dynamic-type-languages-versus-static-type-languages",
+            "title": "Dynamic type languages versus static type languages",
+            "tags": [
+                "programming-languages",
+                "dynamic-languages",
+                "type-systems"
+            ]
+        },
+        {
+            "link": "https://stackoverflow.com/questions/900055/is-sql-or-even-tsql-turing-complete",
+            "title": "Is SQL or even TSQL Turing Complete?",
+            "tags": [
+                "sql",
+                "tsql",
+                "programming-languages",
+                "language-features"
+            ]
+        },
+        {
+            "link": "https://stackoverflow.com/questions/6145091/the-term-context-in-programming",
+            "title": "The term &quot;Context&quot; in programming?",
+            "tags": [
+                "language-agnostic",
+                "programming-languages",
+                "terminology"
+            ]
+        }
+    ],
+    "linear-programming": [
+        {
+            "link": "https://stackoverflow.com/questions/5791466/what-libraries-should-i-use-for-linear-programming-in-python",
+            "title": "What libraries should I use for linear programming in python?",
+            "tags": [
+                "python",
+                "mathematical-optimization",
+                "linear-programming"
+            ]
+        },
+        {
+            "link": "https://stackoverflow.com/questions/573670/which-algorithm-for-assigning-shifts-discrete-optimization-problem",
+            "title": "Which algorithm for assigning shifts (discrete optimization problem)",
+            "tags": [
+                "algorithm",
+                "discrete-mathematics",
+                "mathematical-optimization",
+                "linear-programming"
+            ]
+        },
+        {
+            "link": "https://stackoverflow.com/questions/3336954/what-is-linear-programming",
+            "title": "What is linear programming?",
+            "tags": [
+                "algorithm",
+                "optimization",
+                "math",
+                "theory",
+                "linear-programming"
+            ]
+        },
+        {
+            "link": "https://stackoverflow.com/questions/7728313/python-pulp-using-with-matrices",
+            "title": "Python Pulp using with Matrices",
+            "tags": [
+                "python",
+                "mathematical-optimization",
+                "linear-programming",
+                "pulp"
+            ]
+        },
+        {
+            "link": "https://stackoverflow.com/questions/14016898/port-matlab-bounding-ellipsoid-code-to-python",
+            "title": "Port MATLAB bounding ellipsoid code to Python",
+            "tags": [
+                "python",
+                "matlab",
+                "porting",
+                "linear-programming",
+                "bounding-box"
+            ]
+        },
+        {
+            "link": "https://stackoverflow.com/questions/57078434/finding-all-combinations-based-on-multiple-conditions-for-a-large-list",
+            "title": "Finding all combinations based on multiple conditions for a large list",
+            "tags": [
+                "python",
+                "mathematical-optimization",
+                "itertools",
+                "linear-programming"
+            ]
+        },
+        {
+            "link": "https://stackoverflow.com/questions/143020/mathematical-optimization-library-for-java-free-or-open-source-recommendatio",
+            "title": "mathematical optimization library for Java --- free or open source recommendations?",
+            "tags": [
+                "mathematical-optimization",
+                "linear-programming",
+                "cplex",
+                "gurobi",
+                "convex-optimization"
+            ]
+        },
+        {
+            "link": "https://stackoverflow.com/questions/3326067/binary-linear-programming-solver-in-python",
+            "title": "binary linear programming solver in Python",
+            "tags": [
+                "python",
+                "matlab",
+                "linear-programming"
+            ]
+        },
+        {
+            "link": "https://stackoverflow.com/questions/30774270/how-to-convert-quadratic-to-linear-program",
+            "title": "How to convert quadratic to linear program?",
+            "tags": [
+                "mathematical-optimization",
+                "linear-programming",
+                "integer-programming",
+                "quadratic-programming"
+            ]
+        },
+        {
+            "link": "https://stackoverflow.com/questions/3953623/is-there-a-simple-algorithm-for-calculating-the-maximum-inscribed-circle-into-a",
+            "title": "Is there a simple algorithm for calculating the maximum inscribed circle into a convex polygon?",
+            "tags": [
+                "algorithm",
+                "linear-algebra",
+                "linear-programming",
+                "convex-optimization",
+                "convex-polygon"
+            ]
+        }
+    ],
+    "template-meta-programming": [
+        {
+            "link": "https://stackoverflow.com/questions/43254027/why-do-c-templates-use-the-angle-bracket-syntax",
+            "title": "Why do C++ templates use the angle bracket syntax?",
+            "tags": [
+                "c++",
+                "c++11",
+                "language-design",
+                "template-meta-programming"
+            ]
+        },
+        {
+            "link": "https://stackoverflow.com/questions/27941661/generating-one-class-member-per-variadic-template-argument",
+            "title": "Generating one class member per variadic template argument",
+            "tags": [
+                "c++",
+                "c++11",
+                "variadic-templates",
+                "template-meta-programming"
+            ]
+        },
+        {
+            "link": "https://stackoverflow.com/questions/42987144/overloading-multiple-function-objects-by-reference",
+            "title": "Overloading multiple function objects by reference",
+            "tags": [
+                "c++",
+                "overloading",
+                "template-meta-programming",
+                "c++17",
+                "function-object"
+            ]
+        },
+        {
+            "link": "https://stackoverflow.com/questions/55475338/default-template-parameter-lambda-in-unevaluated-context-bug-or-feature",
+            "title": "Default template parameter &amp; lambda in unevaluated context: bug or feature?",
+            "tags": [
+                "c++",
+                "lambda",
+                "language-lawyer",
+                "template-meta-programming",
+                "c++20"
+            ]
+        },
+        {
+            "link": "https://stackoverflow.com/questions/59034713/recursion-using-template-meta-programming",
+            "title": "Recursion using template meta programming",
+            "tags": [
+                "c++",
+                "templates",
+                "template-meta-programming"
+            ]
+        },
+        {
+            "link": "https://stackoverflow.com/questions/64095320/mechanism-to-check-if-a-c-member-is-private",
+            "title": "Mechanism to check if a C++ member is private",
+            "tags": [
+                "c++",
+                "unit-testing",
+                "template-meta-programming",
+                "private-members"
+            ]
+        },
+        {
+            "link": "https://stackoverflow.com/questions/22111719/checking-for-existence-of-c-member-function-possibly-protected",
+            "title": "Checking for existence of C++ member function, possibly protected",
+            "tags": [
+                "c++",
+                "c++11",
+                "final",
+                "template-meta-programming",
+                "sfinae"
+            ]
+        },
+        {
+            "link": "https://stackoverflow.com/questions/22758291/how-can-i-detect-if-a-type-can-be-streamed-to-an-stdostream",
+            "title": "How can I detect if a type can be streamed to an std::ostream?",
+            "tags": [
+                "c++",
+                "templates",
+                "c++11",
+                "iostream",
+                "template-meta-programming"
+            ]
+        },
+        {
+            "link": "https://stackoverflow.com/questions/55288555/c-check-if-statement-can-be-evaluated-constexpr",
+            "title": "C++ check if statement can be evaluated constexpr",
+            "tags": [
+                "c++",
+                "template-meta-programming",
+                "constexpr",
+                "c++20",
+                "if-constexpr"
+            ]
+        },
+        {
+            "link": "https://stackoverflow.com/questions/32104890/why-is-initialization-of-a-constant-dependent-type-in-a-template-parameter-list",
+            "title": "Why is initialization of a constant dependent type in a template parameter list disallowed by the standard?",
+            "tags": [
+                "c++",
+                "templates",
+                "c++11",
+                "c++14",
+                "template-meta-programming"
+            ]
+        }
+    ],
+    "generic-programming": [
+        {
+            "link": "https://stackoverflow.com/questions/736307/multipurpose-linked-list-implementation-in-pure-c",
+            "title": "&#39;Multipurpose&#39; linked list implementation in pure C",
+            "tags": [
+                "c",
+                "linked-list",
+                "containers",
+                "generic-programming"
+            ]
+        },
+        {
+            "link": "https://stackoverflow.com/questions/27157717/boilerplate-free-annotation-of-asts-in-haskell",
+            "title": "Boilerplate-free annotation of ASTs in Haskell?",
+            "tags": [
+                "haskell",
+                "ghc",
+                "generic-programming",
+                "template-haskell",
+                "scrap-your-boilerplate"
+            ]
+        },
+        {
+            "link": "https://stackoverflow.com/questions/5529295/c-vs-d-ada-and-eiffel-horrible-error-messages-with-templates",
+            "title": "C++ vs. D , Ada and Eiffel (horrible error messages with templates)",
+            "tags": [
+                "c++",
+                "templates",
+                "d",
+                "ada",
+                "generic-programming"
+            ]
+        },
+        {
+            "link": "https://stackoverflow.com/questions/6489351/nested-name-specifier",
+            "title": "nested-name-specifier",
+            "tags": [
+                "c++",
+                "templates",
+                "generic-programming"
+            ]
+        },
+        {
+            "link": "https://stackoverflow.com/questions/27508239/can-overloads-for-generic-functions-be-open-for-other-overloads",
+            "title": "Can overloads for generic functions be open for other overloads?",
+            "tags": [
+                "c++",
+                "templates",
+                "c++11",
+                "c++14",
+                "generic-programming"
+            ]
+        },
+        {
+            "link": "https://stackoverflow.com/questions/1252841/what-are-concepts",
+            "title": "What are concepts?",
+            "tags": [
+                "c++",
+                "c++11",
+                "generic-programming",
+                "c++-concepts"
+            ]
+        },
+        {
+            "link": "https://stackoverflow.com/questions/18297285/haskell-get-data-constructor-name-as-string",
+            "title": "Haskell: Get data constructor name as string",
+            "tags": [
+                "haskell",
+                "reflection",
+                "ghc",
+                "generic-programming",
+                "deriving"
+            ]
+        },
+        {
+            "link": "https://stackoverflow.com/questions/53197340/how-much-existing-c-code-would-break-if-void-was-actually-defined-as-struct-v",
+            "title": "How much existing C++ code would break if void was actually defined as `struct void {};`",
+            "tags": [
+                "c++",
+                "language-lawyer",
+                "void",
+                "language-design",
+                "generic-programming"
+            ]
+        },
+        {
+            "link": "https://stackoverflow.com/questions/3937586/generic-programming-vs-metaprogramming",
+            "title": "Generic programming vs. Metaprogramming",
+            "tags": [
+                "programming-languages",
+                "metaprogramming",
+                "generic-programming"
+            ]
+        },
+        {
+            "link": "https://stackoverflow.com/questions/34939390/generic-programming-via-effects",
+            "title": "Generic programming via effects",
+            "tags": [
+                "haskell",
+                "generic-programming",
+                "agda",
+                "dependent-type",
+                "idris"
+            ]
+        }
+    ],
+    "constraint-programming": [
+        {
+            "link": "https://stackoverflow.com/questions/15999712/any-pseudo-polynomial-algorithm-for-bounded-0-1-multi-knapsack",
+            "title": "Any pseudo-polynomial algorithm for bounded 0-1 multi-knapsack?",
+            "tags": [
+                "algorithm",
+                "optimization",
+                "constraint-programming",
+                "knapsack-problem"
+            ]
+        },
+        {
+            "link": "https://stackoverflow.com/questions/6214266/ordering-lists-with-constraint-logic-programming",
+            "title": "Ordering lists with constraint logic programming",
+            "tags": [
+                "list",
+                "prolog",
+                "constraint-programming"
+            ]
+        },
+        {
+            "link": "https://stackoverflow.com/questions/8458945/optimizing-pathfinding-in-constraint-logic-programming-with-prolog",
+            "title": "Optimizing pathfinding in Constraint Logic Programming with Prolog",
+            "tags": [
+                "prolog",
+                "path-finding",
+                "constraint-programming",
+                "clpfd",
+                "sicstus-prolog"
+            ]
+        },
+        {
+            "link": "https://stackoverflow.com/questions/31912761/how-to-perform-constraint-solving-with-mixed-data-types",
+            "title": "How to perform constraint solving with mixed data types?",
+            "tags": [
+                "java",
+                "constraints",
+                "constraint-programming",
+                "constraint-satisfaction"
+            ]
+        },
+        {
+            "link": "https://stackoverflow.com/questions/45531175/difference-lp-mip-and-cp",
+            "title": "Difference LP/MIP and CP",
+            "tags": [
+                "linear-programming",
+                "constraint-programming",
+                "mixed-integer-programming"
+            ]
+        },
+        {
+            "link": "https://stackoverflow.com/questions/57123397/which-solver-do-googles-or-tools-modules-for-csp-and-vrp-use",
+            "title": "Which solver do Googles OR-Tools Modules for CSP and VRP use?",
+            "tags": [
+                "or-tools",
+                "constraint-programming",
+                "vehicle-routing",
+                "operations-research",
+                "cp-sat-solver"
+            ]
+        },
+        {
+            "link": "https://stackoverflow.com/questions/52278594/constraint-optimisation-with-google-operations-research-tools",
+            "title": "Constraint optimisation with google operations research tools",
+            "tags": [
+                "python",
+                "mathematical-optimization",
+                "constraint-programming",
+                "or-tools"
+            ]
+        },
+        {
+            "link": "https://stackoverflow.com/questions/10584990/whats-the-advantage-of-smt-solver-over-csp-solver-in-constraint-solving",
+            "title": "What&#39;s the advantage of SMT-solver over CSP-solver in constraint solving?",
+            "tags": [
+                "constraint-programming",
+                "satisfiability"
+            ]
+        },
+        {
+            "link": "https://stackoverflow.com/questions/31334926/from-expensive-search-to-integer-programming-or-constraint-programming",
+            "title": "From expensive search to Integer Programming or Constraint Programming?",
+            "tags": [
+                "math",
+                "constraint-programming",
+                "integer-programming"
+            ]
+        },
+        {
+            "link": "https://stackoverflow.com/questions/39794766/optimizing-in-r-using-multiple-variables-using-rsolnp",
+            "title": "Optimizing in R using multiple variables using Rsolnp",
+            "tags": [
+                "r",
+                "optimization",
+                "mathematical-optimization",
+                "constraint-programming",
+                "hessian-matrix"
+            ]
+        }
+    ]
+}
